@@ -1,0 +1,8 @@
+input/ext_data.csv
+input/sf_accounts.csv
+input/sf_contacts.csv
+output/new_contacts.csv
+output/old_contacts.csv
+output/new_accounts.csv
+output/old_accounts.csv
+.ipynb_checkpoints/
