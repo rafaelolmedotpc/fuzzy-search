@@ -6,3 +6,5 @@ output/old_contacts.csv
 output/new_accounts.csv
 output/old_accounts.csv
 .ipynb_checkpoints/
+.vscode/
+Data/
