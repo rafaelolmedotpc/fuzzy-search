@@ -1,0 +1,1943 @@
+,Account Name Cleaned,Company Name Cleaned,Similarity,T/F
+0,the fountains,the fountain,0.956,False
+1,plexxi,plexxis,0.964,False
+2,cat i manufacturing,j  m manufacturing,0.955,False
+3,multi  color,multicolor,0.961,False
+4,city of wilmington,city of wilmington nc,0.969,False
+5,hbs,chbs,0.951,False
+6,hewlett  woodmere public schools,hewlettwoodmere public schools,0.974,False
+7,international trade administration,international administration,0.954,False
+8,washtenaw county,washtenaw county mi,0.96,False
+9,city of bellevue,city of bellevue wa,0.959,False
+10,wentzville school district,wentzville riv school district,0.968,False
+11,university of illinois at urbana  champaign,university of illinois at urbanachampaign,0.985,False
+12,pbs engineering  environmental,pbs engineering and environmental,0.979,False
+13,automotivemastermind,automotive mastermind,0.971,False
+14,david evans  associates,david evans and associates,0.966,False
+15,porter pipe  supply,porter pipe and supply,0.961,False
+16,university of arkansas at little rock,university of arkansas  little rock,0.988,False
+17,vetter pharma  fertigung gmbh  co kg,vetter pharma fertigung gmbh  cokg,0.965,False
+18,suny at albany,suny  albany,0.977,False
+19,reno  tahoe airport authority,renotahoe airport authority,0.975,False
+20,alco products,malco products,0.97,False
+21,us office of personnel management,office of personnel management,0.978,False
+22,stan corp financial,stancorp financial,0.969,False
+23,hale  hearty soups,hale and hearty soups,0.951,False
+24,massman construction co,massman construction,0.986,False
+25,western regional off  track betting,western regional offtrack betting,0.961,False
+26,mid  state consultants,midstate consultants,0.951,False
+27,north carolina department of public safety,state of north carolina  department of public safety,0.958,False
+28,m e tech  consulting,atech consulting,0.967,False
+29,the first national bank in sioux falls,first national bank in sioux falls,0.97,False
+30,american heritage school,american heritage schools,0.956,False
+31,the university of texas at san antonio,university of texas  san antonio,0.953,False
+32,san bernardino county,san bernardino county ca,0.975,False
+33,upsher  smith laboratories,upshersmith laboratories,0.981,False
+34,aqua  chem,aquachem,0.955,False
+35,equipment tech,tec equipment,0.977,False
+36,city of colorado springs,city of colorado springs co,0.985,False
+37,university of texas at tyler,university of texas  tyler,0.986,False
+38,abc  amega,abcamega,0.964,False
+39,cullen  dykman,cullen and dykman,0.967,False
+40,keck medicine of usc,keck medicine of us,0.958,False
+41,willis  knighton health system,willisknighton health system,0.959,False
+42,county of onondaga,onondaga county,0.958,False
+43,larimer county,larimer county co,0.976,False
+44,catalyst software,software catalysts,0.959,False
+45,bc systems,bci systems,0.951,False
+46,d 2 technologie,x technologies,0.971,False
+47,university of nebraska at omaha,university of nebraska omaha,0.987,False
+48,lake land college,lakeland college,0.97,False
+49,advan,adva,0.956,False
+50,bethune  cookman university,bethunecookman university,0.984,False
+51,spirit hospitality,spire hospitality,0.96,False
+52,lighthouse for the blind,the lighthouse for the blind,0.975,False
+53,university of texas at san antonio,university of texas  san antonio,0.986,False
+54,the rivers school,the river school,0.952,False
+55,cadaret grant  co,cadaret grant,0.97,False
+56,city  county of denver,city and county of denver,0.957,False
+57,intuitive research  technology,intuitive research and technology,0.972,False
+58,cal  tex protective coatings,caltex protective coatings,0.973,False
+59,los angeles county metropolitan transportation authority,los angeles metropolitan transportation authority,0.959,False
+60,kaye  smith,kayesmith,0.976,False
+61,ves environmental solutions,environmental solutions,0.966,False
+62,the first citizens national bank,first citizens national bank,0.965,False
+63,anderson  shiro cisd,andersonshiro cisd,0.975,False
+64,heartland payment systems,heartland payment system,0.965,False
+65,morgan  morgan solar,morgan solar,0.961,False
+66,ruby tuesdays,ruby tuesday,0.96,False
+67,journey church,the journey church,0.954,False
+68,opendrives,open drives,0.953,False
+69,county of jefferson,jefferson county co,0.952,False
+70,caldwell community college  technical institute,caldwell community college and technical institute,0.985,False
+71,sibanye  stillwater,sibanyestillwater,0.985,False
+72,portland public schools,portland public schools or,0.986,False
+73,university of tennessee medical center,the university of tennessee medical center,0.969,False
+74,touchpoints,touchpoint,0.954,False
+75,idaho housing  finance association,idaho housing and finance association,0.977,False
+76,hensel phelps construction co,hensel phelps construction,0.991,False
+77,at solutions,ati solutions,0.97,False
+78,universal technical insitute,universal technical institute,0.954,False
+79,afc industries,afco industries,0.98,False
+80,easterseals,easter seals,0.952,False
+81,pinellas county flpinellas county sheriffs office,pinellas county fl  pinellas county sheriffs office,0.978,False
+82,bartlett,bartlett  co,0.968,False
+83,community health systems,community health systems,1.0,True
+84,wolf  company,wolf  company,1.0,True
+85,turbosquid,turbosquid,1.0,True
+86,heartland alliance,heartland alliance,1.0,True
+87,aspen systems,aspen systems,1.0,True
+88,qorus software,qorus software,1.0,True
+89,menlo security,menlo security,1.0,True
+90,valdosta state university,valdosta state university,1.0,True
+91,sc electric company,sc electric company,1.0,True
+92,exp realty,exp realty,1.0,True
+93,maverick technologies,maverick technologies,1.0,True
+94,c3 technology advisors,c3 technology advisors,1.0,True
+95,ymca of san francisco,ymca of san francisco,1.0,True
+96,fred meyer,fred meyer,1.0,True
+97,live casino  hotel,live casino  hotel,1.0,True
+98,managing editor,managing editor,1.0,True
+99,washington metropolitan area transit authority,washington metropolitan area transit authority,1.0,True
+100,freebird,freebird,1.0,True
+101,alliance residential,alliance residential,1.0,True
+102,casualty actuarial society,casualty actuarial society,1.0,True
+103,entertainment one,entertainment one,1.0,True
+104,seiler,seiler,1.0,True
+105,city of aurora,city of aurora,1.0,True
+106,peterson farms seed,peterson farms seed,1.0,True
+107,sarepta therapeutics,sarepta therapeutics,1.0,True
+108,dynamic aviation,dynamic aviation,1.0,True
+109,sauce labs,sauce labs,1.0,True
+110,university of maryland eastern shore,university of maryland eastern shore,1.0,True
+111,3sharp,3sharp,1.0,True
+112,innovance,innovance,1.0,True
+113,advanced nutrients,advanced nutrients,1.0,True
+114,icba,icba,1.0,True
+115,worldpac,worldpac,1.0,True
+116,earthbound trading,earthbound trading,1.0,True
+117,audatex,audatex,1.0,True
+118,harris county,harris county,1.0,True
+119,hart intercivic,hart intercivic,1.0,True
+120,nearpod,nearpod,1.0,True
+121,reliant solutions,reliant solutions,1.0,True
+122,freedom debt relief,freedom debt relief,1.0,True
+123,turbonomic,turbonomic,1.0,True
+124,smp,smp,1.0,True
+125,pattern energy,pattern energy,1.0,True
+126,velocityehs,velocityehs,1.0,True
+127,h2oai,h2oai,1.0,True
+128,forrest solutions,forrest solutions,1.0,True
+129,hobi,hobi,1.0,True
+130,hearth  home technologies,hearth  home technologies,1.0,True
+131,rsr,rsr,1.0,True
+132,corrigan moving systems,corrigan moving systems,1.0,True
+133,zodiac inflight innovations,zodiac inflight innovations,1.0,True
+134,occipital,occipital,1.0,True
+135,pretium packaging,pretium packaging,1.0,True
+136,contact solutions,contact solutions,1.0,True
+137,dreyer  reinbold,dreyer  reinbold,1.0,True
+138,cornerstone bank,cornerstone bank,1.0,True
+139,conversica,conversica,1.0,True
+140,celerity,celerity,1.0,True
+141,planned systems international,planned systems international,1.0,True
+142,nisource,nisource,1.0,True
+143,cleary gottlieb steen  hamilton,cleary gottlieb steen  hamilton,1.0,True
+144,trinity3 technology,trinity3 technology,1.0,True
+145,welldoc,welldoc,1.0,True
+146,erb,erb,1.0,True
+147,university of cincinnati,university of cincinnati,1.0,True
+148,stearns lending,stearns lending,1.0,True
+149,four winds interactive,four winds interactive,1.0,True
+150,cenveo,cenveo,1.0,True
+151,g1 therapeutics,g1 therapeutics,1.0,True
+152,pacxa,pacxa,1.0,True
+153,bristol farms,bristol farms,1.0,True
+154,university of california riverside,university of california  riverside,1.0,True
+155,fremont bank,fremont bank,1.0,True
+156,applied ecological services,applied ecological services,1.0,True
+157,hulu,hulu,1.0,True
+158,sp richards company,sp richards company,1.0,True
+159,jordan school district,jordan school district,1.0,True
+160,mdvip,mdvip,1.0,True
+161,teltech,teltech,1.0,True
+162,united therapeutics,united therapeutics,1.0,True
+163,westport,westport,1.0,True
+164,frost brown todd,frost brown todd,1.0,True
+165,burns  mcdonnell,burns  mcdonnell,1.0,True
+166,dfw technology,dfw technology,1.0,True
+167,edp renewables,edp renewables,1.0,True
+168,canoo,canoo,1.0,True
+169,ithaka,ithaka,1.0,True
+170,lutheran social service of minnesota,lutheran social service of minnesota,1.0,True
+171,avoxi,avoxi,1.0,True
+172,erepublic,erepublic,1.0,True
+173,invista,invista,1.0,True
+174,colonial williamsburg foundation,colonial williamsburg foundation,1.0,True
+175,kuka,kuka,1.0,True
+176,ann  robert h lurie childrens hospital of chicago,ann  robert h lurie childrens hospital of chicago,1.0,True
+177,the new school,the new school,1.0,True
+178,jackson family wines,jackson family wines,1.0,True
+179,feeding america,feeding america,1.0,True
+180,susquehanna university,susquehanna university,1.0,True
+181,flying dog brewery,flying dog brewery,1.0,True
+182,joyent,joyent,1.0,True
+183,nice actimize,nice actimize,1.0,True
+184,dakota supply,dakota supply,1.0,True
+185,tbconsulting,tbconsulting,1.0,True
+186,menlo college,menlo college,1.0,True
+187,ritter communications,ritter communications,1.0,True
+188,healthback home health,healthback home health,1.0,True
+189,ryerson university,ryerson university,1.0,True
+190,morehead state university,morehead state university,1.0,True
+191,maps credit union,maps credit union,1.0,True
+192,spindrift beverage company,spindrift beverage company,1.0,True
+193,baril,baril,1.0,True
+194,university of north alabama,university of north alabama,1.0,True
+195,align technology,align technology,1.0,True
+196,hunton andrews kurth,hunton andrews kurth,1.0,True
+197,hometap,hometap,1.0,True
+198,columbia hospitality,columbia hospitality,1.0,True
+199,fulton companies,fulton companies,1.0,True
+200,synaptics,synaptics,1.0,True
+201,outbrain,outbrain,1.0,True
+202,ping,ping,1.0,True
+203,loop returns,loop returns,1.0,True
+204,virtualentives,virtualentives,1.0,True
+205,green art plumbing supply,green art plumbing supply,1.0,True
+206,fay school,fay school,1.0,True
+207,mercy hospital  medical center,mercy hospital  medical center,1.0,True
+208,css international,css international,1.0,True
+209,murad,murad,1.0,True
+210,north idaho college,north idaho college,1.0,True
+211,nio,nio,1.0,True
+212,v3 companies,v3 companies,1.0,True
+213,st louis composting,st louis composting,1.0,True
+214,coretelligent,coretelligent,1.0,True
+215,redsky technologies,redsky technologies,1.0,True
+216,diamondback energy,diamondback energy,1.0,True
+217,geotechnology,geotechnology,1.0,True
+218,amerijet international,amerijet international,1.0,True
+219,altamed health services,altamed health services,1.0,True
+220,advertiser perceptions,advertiser perceptions,1.0,True
+221,mad security,mad security,1.0,True
+222,srt communications,srt communications,1.0,True
+223,westminster college,westminster college,1.0,True
+224,sharp electronics,sharp electronics,1.0,True
+225,johnson rauhoff,johnson rauhoff,1.0,True
+226,lifelink foundation,lifelink foundation,1.0,True
+227,the plastek,the plastek,1.0,True
+228,nortek security  control,nortek security  control,1.0,True
+229,spectrotel,spectrotel,1.0,True
+230,mettel,mettel,1.0,True
+231,paige,paige,1.0,True
+232,securicon,securicon,1.0,True
+233,novoed,novoed,1.0,True
+234,traverse city area public schools,traverse city area public schools,1.0,True
+235,april six,april six,1.0,True
+236,servpro,servpro,1.0,True
+237,day automation,day automation,1.0,True
+238,capella university,capella university,1.0,True
+239,tsc apparel,tsc apparel,1.0,True
+240,marathon oil,marathon oil,1.0,True
+241,it vizion,it vizion,1.0,True
+242,verifone,verifone,1.0,True
+243,nova biomedical,nova biomedical,1.0,True
+244,appalachian regional commission,appalachian regional commission,1.0,True
+245,immaculate high school,immaculate high school,1.0,True
+246,ippon technologies,ippon technologies,1.0,True
+247,tracfone wireless,tracfone wireless,1.0,True
+248,ozarks technical community college,ozarks technical community college,1.0,True
+249,haberfeld associates,haberfeld associates,1.0,True
+250,cross country healthcare,cross country healthcare,1.0,True
+251,rainbow international,rainbow international,1.0,True
+252,hearts  science,hearts  science,1.0,True
+253,new jersey courts,new jersey courts,1.0,True
+254,larkin street youth services,larkin street youth services,1.0,True
+255,packers sanitation services,packers sanitation services,1.0,True
+256,atlanta hawks,atlanta hawks,1.0,True
+257,ucb,ucb,1.0,True
+258,imperial pools,imperial pools,1.0,True
+259,gotham technology,gotham technology,1.0,True
+260,the meet,the meet,1.0,True
+261,boyle investment company,boyle investment company,1.0,True
+262,fluidedge consulting,fluidedge consulting,1.0,True
+263,butler snow,butler snow,1.0,True
+264,zwift,zwift,1.0,True
+265,axioma,axioma,1.0,True
+266,protect my car,protect my car,1.0,True
+267,skyslope,skyslope,1.0,True
+268,transystems,transystems,1.0,True
+269,thompson school district,thompson school district,1.0,True
+270,onepath systems,onepath systems,1.0,True
+271,sabey,sabey,1.0,True
+272,radioshack,radioshack,1.0,True
+273,guardhat,guardhat,1.0,True
+274,kitchell,kitchell,1.0,True
+275,san bernardino community college district,san bernardino community college district,1.0,True
+276,r2integrated,r2integrated,1.0,True
+277,aspca,aspca,1.0,True
+278,fairfield university,fairfield university,1.0,True
+279,university of wyoming,university of wyoming,1.0,True
+280,santa clara university,santa clara university,1.0,True
+281,safari micro,safari micro,1.0,True
+282,national wildlife federation,national wildlife federation,1.0,True
+283,hp communications,hp communications,1.0,True
+284,mjs packaging,mjs packaging,1.0,True
+285,inver hills community college,inver hills community college,1.0,True
+286,stanley d lindsey  associates,stanley d lindsey  associates,1.0,True
+287,keiser university,keiser university,1.0,True
+288,advertising specialty institute,advertising specialty institute,1.0,True
+289,hrizons,hrizons,1.0,True
+290,userful,userful,1.0,True
+291,isi telemanagement solutions,isi telemanagement solutions,1.0,True
+292,us inspect,us inspect,1.0,True
+293,shelter house,shelter house,1.0,True
+294,the dynamic catholic institute,the dynamic catholic institute,1.0,True
+295,the marcus buckingham company,the marcus buckingham company,1.0,True
+296,mac valves,mac valves,1.0,True
+297,l esprit,esprit,1.0,True
+298,interior image,interior image,1.0,True
+299,stiles,stiles,1.0,True
+300,sxsw,sxsw,1.0,True
+301,maxar technologies,maxar technologies,1.0,True
+302,beekeeper,beekeeper,1.0,True
+303,regency integrated health services,regency integrated health services,1.0,True
+304,modsy,modsy,1.0,True
+305,lathrop  gage,lathrop  gage,1.0,True
+306,clarkstown central school district,clarkstown central school district,1.0,True
+307,spring health,spring health,1.0,True
+308,ubreakifix,ubreakifix,1.0,True
+309,texas am foundation,texas am foundation,1.0,True
+310,smithbucklin,smithbucklin,1.0,True
+311,kennicott brothers company,kennicott brothers company,1.0,True
+312,sherman financial,sherman financial,1.0,True
+313,reynolds  reynolds,reynolds,1.0,True
+314,genzyme,genzyme,1.0,True
+315,daimler,daimler,1.0,True
+316,eastern florida state college,eastern florida state college,1.0,True
+317,american international chemical,american international chemical,1.0,True
+318,component engineers,component engineers,1.0,True
+319,chainalysis,chainalysis,1.0,True
+320,berlin boylston regional school district,berlin boylston regional school district,1.0,True
+321,vectrus,vectrus,1.0,True
+322,altimetrik,altimetrik,1.0,True
+323,gibson brands,gibson brands,1.0,True
+324,bader rutter,bader rutter,1.0,True
+325,laserfiche,laserfiche,1.0,True
+326,terarecon,terarecon,1.0,True
+327,munger tolles  olson,munger tolles  olson,1.0,True
+328,brightedge,brightedge,1.0,True
+329,tire discounters,tire discounters,1.0,True
+330,pccw global,pccw global,1.0,True
+331,groupe ocean le,groupe ocean le,1.0,True
+332,appen,appen,1.0,True
+333,wahoo fitness,wahoo fitness,1.0,True
+334,agilent technologies,agilent technologies,1.0,True
+335,infoworks,infoworks,1.0,True
+336,noblis,noblis,1.0,True
+337,phoenix services,phoenix services,1.0,True
+338,patcraft,patcraft,1.0,True
+339,yellowbrick data,yellowbrick data,1.0,True
+340,ervin cable construction,ervin cable construction,1.0,True
+341,dufl,dufl,1.0,True
+342,shutterfly,shutterfly,1.0,True
+343,gateway ticketing systems,gateway ticketing systems,1.0,True
+344,lendingusa,lendingusa,1.0,True
+345,opentable,opentable,1.0,True
+346,striim,striim,1.0,True
+347,streamline health,streamline health,1.0,True
+348,digital trends,digital trends,1.0,True
+349,the manhattan club,the manhattan club,1.0,True
+350,teksynap,teksynap,1.0,True
+351,first county bank,first county bank,1.0,True
+352,roundtower technologies,roundtower technologies,1.0,True
+353,brigham young university,brigham young university,1.0,True
+354,kronos,kronos,1.0,True
+355,temperature equipment,temperature equipment,1.0,True
+356,homestar financial,homestar financial,1.0,True
+357,grand river center,grand river center,1.0,True
+358,fast enterprises,fast enterprises,1.0,True
+359,enilon,enilon,1.0,True
+360,american cancer society,american cancer society,1.0,True
+361,prison fellowship,prison fellowship,1.0,True
+362,zipwhip,zipwhip,1.0,True
+363,mascoma savings bank,mascoma savings bank,1.0,True
+364,ameriqual,ameriqual,1.0,True
+365,bpm,bpm,1.0,True
+366,omaze,omaze,1.0,True
+367,network,network b,1.0,True
+368,lucid,lucid,1.0,True
+369,fineline technologies,fineline technologies,1.0,True
+370,anne arundel community college,anne arundel community college,1.0,True
+371,uplight,uplight,1.0,True
+372,levvel,levvel,1.0,True
+373,teampeople,teampeople,1.0,True
+374,kinaxis,kinaxis,1.0,True
+375,troutman sanders,troutman sanders,1.0,True
+376,childrens healthcare of atlanta,childrens healthcare of atlanta,1.0,True
+377,renaissance pharmaceuticals,renaissance pharmaceuticals,1.0,True
+378,nwea,nwea,1.0,True
+379,tpg,tpg,1.0,True
+380,gc america,gc america,1.0,True
+381,key cooperative,key cooperative,1.0,True
+382,sayers,sayers,1.0,True
+383,access destination services,access destination services,1.0,True
+384,skygen,skygen,1.0,True
+385,avl technologies,avl technologies,1.0,True
+386,wiss janney elstner associates,wiss janney elstner associates,1.0,True
+387,funimation,funimation,1.0,True
+388,episcopal high school,episcopal high school,1.0,True
+389,pinnacle,pinnacle,1.0,True
+390,catalogic software,catalogic software,1.0,True
+391,united guaranty,united guaranty,1.0,True
+392,alation,alation,1.0,True
+393,procopio cory hargreaves  savitch,procopio cory hargreaves  savitch,1.0,True
+394,at still university,at still university,1.0,True
+395,celtic bank,celtic bank,1.0,True
+396,osmose,osmose,1.0,True
+397,datavail,datavail,1.0,True
+398,shurtape technologies,shurtape technologies,1.0,True
+399,biodot,biodot,1.0,True
+400,eitacies,eitacies,1.0,True
+401,hicks morley,hicks morley,1.0,True
+402,spawglass,spawglass,1.0,True
+403,chowan university,chowan university,1.0,True
+404,portworx,portworx,1.0,True
+405,linkwell health,linkwell health,1.0,True
+406,vibra healthcare,vibra healthcare,1.0,True
+407,htg,htg,1.0,True
+408,fox chase cancer center,fox chase cancer center,1.0,True
+409,salas obrien,salas obrien,1.0,True
+410,fitzgerald  co,fitzgerald  co,1.0,True
+411,zilliant,zilliant,1.0,True
+412,neovation,neovation,1.0,True
+413,brivo,brivo,1.0,True
+414,life fitness,life fitness,1.0,True
+415,phoenix academy,phoenix academy,1.0,True
+416,coredial,coredial,1.0,True
+417,prolacta bioscience,prolacta bioscience,1.0,True
+418,commercial bank,commercial bank,1.0,True
+419,waupaca foundry,waupaca foundry,1.0,True
+420,quest resource management,quest resource management,1.0,True
+421,thrivehive,thrivehive,1.0,True
+422,international youth foundation,international youth foundation,1.0,True
+423,logical systems,logical systems,1.0,True
+424,skytron,skytron,1.0,True
+425,genesco sports enterprises,genesco sports enterprises,1.0,True
+426,eg industries,eg industries,1.0,True
+427,actian,actian,1.0,True
+428,miami dade college,miami dade college,1.0,True
+429,kyruus,kyruus,1.0,True
+430,vulcan,vulcan,1.0,True
+431,synoptek,synoptek,1.0,True
+432,assurance,assurance,1.0,True
+433,cheney brothers,cheney brothers,1.0,True
+434,greenberg traurig,greenberg traurig,1.0,True
+435,variation reduction solutions,variation reduction solutions,1.0,True
+436,americold,americold,1.0,True
+437,county of essex,county of essex,1.0,True
+438,brigham young university  idaho,brigham young university  idaho,1.0,True
+439,netwise data,netwise data,1.0,True
+440,4wall entertainment,4wall entertainment,1.0,True
+441,mersana therapeutics,mersana therapeutics,1.0,True
+442,forsythe technology,forsythe technology,1.0,True
+443,matco tools,matco tools,1.0,True
+444,kinsale insurance,kinsale insurance,1.0,True
+445,heartland bank,heartland bank,1.0,True
+446,castle  cooke,castle  cooke,1.0,True
+447,idaho state university,idaho state university,1.0,True
+448,bank of yazoo city,bank of yazoo city,1.0,True
+449,clarishealth,clarishealth,1.0,True
+450,bitsight,bitsight,1.0,True
+451,vyanet operating,vyanet operating,1.0,True
+452,alvarez  marsal,alvarez  marsal,1.0,True
+453,central coast distributing,central coast distributing,1.0,True
+454,topflight,topflight,1.0,True
+455,vca,vca,1.0,True
+456,school of the art institute of chicago,school of the art institute of chicago,1.0,True
+457,sentinelone,sentinelone,1.0,True
+458,algosec,algosec,1.0,True
+459,canterbury park,canterbury park,1.0,True
+460,determine,determine,1.0,True
+461,carsforsalecom,carsforsalecom,1.0,True
+462,hc,hc,1.0,True
+463,jacobowitz  gubits,jacobowitz  gubits,1.0,True
+464,xyngular,xyngular,1.0,True
+465,bars foods,bars foods,1.0,True
+466,landscape forms,landscape forms,1.0,True
+467,davenport  company,davenport  company,1.0,True
+468,opploans,opploans,1.0,True
+469,puris,puris,1.0,True
+470,kipp new jersey,kipp new jersey,1.0,True
+471,leisure care,leisure care,1.0,True
+472,protiviti,protiviti,1.0,True
+473,romulus community schools,romulus community schools,1.0,True
+474,mondee,mondee,1.0,True
+475,prosource,prosource,1.0,True
+476,cast products,cast products,1.0,True
+477,gemini,gemini,1.0,True
+478,biofire diagnostics,biofire diagnostics,1.0,True
+479,butler machinery company,butler machinery company,1.0,True
+480,insitu,insitu,1.0,True
+481,pandadoc,pandadoc,1.0,True
+482,eastern savings bank,eastern savings bank,1.0,True
+483,mesa community college,mesa community college,1.0,True
+484,automated health systems,automated health systems,1.0,True
+485,expanse,expanse,1.0,True
+486,peter thomas roth,peter thomas roth,1.0,True
+487,eisneramper,eisneramper,1.0,True
+488,aktana,aktana,1.0,True
+489,pathfinders,pathfinders,1.0,True
+490,sheehan family companies,sheehan family companies,1.0,True
+491,smith  howard,smith  howard,1.0,True
+492,stemcell technologies,stemcell technologies,1.0,True
+493,arxium,arxium,1.0,True
+494,inmusic brands,inmusic brands,1.0,True
+495,dynamo software,dynamo software,1.0,True
+496,collegis education,collegis education,1.0,True
+497,flemington car  truck country,flemington car  truck country,1.0,True
+498,munters,munters,1.0,True
+499,pima community college,pima community college,1.0,True
+500,weave,weave,1.0,True
+501,pm pediatrics,pm pediatrics,1.0,True
+502,precoat metals,precoat metals,1.0,True
+503,ih mississippi valley credit union,ih mississippi valley credit union,1.0,True
+504,bellevue school district,bellevue school district,1.0,True
+505,navigating cancer,navigating cancer,1.0,True
+506,sunrise windows,sunrise windows,1.0,True
+507,western national insurance,western national insurance,1.0,True
+508,monarch healthcare,monarch healthcare,1.0,True
+509,internetwork engineering,internetwork engineering,1.0,True
+510,excelerate energy,excelerate energy,1.0,True
+511,the northridge,the northridge,1.0,True
+512,prosperity bank,prosperity bank,1.0,True
+513,rocksauce studios,rocksauce studios,1.0,True
+514,wixcom,wixcom,1.0,True
+515,university of wisconsin  whitewater,university of wisconsin  whitewater,1.0,True
+516,redmane technology,redmane technology,1.0,True
+517,federal home loan bank of des moines,federal home loan bank of des moines,1.0,True
+518,mortgage cadence,mortgage cadence,1.0,True
+519,maesa,maesa,1.0,True
+520,varidesk,varidesk,1.0,True
+521,catholic health services of long island,catholic health services of long island,1.0,True
+522,wake county public school system,wake county public school system,1.0,True
+523,thomas scientific,thomas scientific,1.0,True
+524,aspen medical products,aspen medical products,1.0,True
+525,pine rest christian mental health services,pine rest christian mental health services,1.0,True
+526,oxford industries,oxford industries,1.0,True
+527,great plains manufacturing,great plains manufacturing,1.0,True
+528,cst industries,cst industries,1.0,True
+529,iron mountain,iron mountain,1.0,True
+530,charter schools usa,charter schools usa,1.0,True
+531,projector psa,projector psa,1.0,True
+532,fire equipment,fire equipment,1.0,True
+533,traylor bros,traylor bros,1.0,True
+534,advicent solutions,advicent solutions,1.0,True
+535,workforce solutions,workforce solutions,1.0,True
+536,american well,american well,1.0,True
+537,housing works,housing works,1.0,True
+538,accurus aerospace,accurus aerospace,1.0,True
+539,architect of the capitol,architect of the capitol,1.0,True
+540,gillette childrens specialty healthcare,gillette childrens specialty healthcare,1.0,True
+541,federal reserve board,federal reserve board,1.0,True
+542,flir systems,flir systems,1.0,True
+543,university of virginia,university of virginia,1.0,True
+544,venture general contracting,venture general contracting,1.0,True
+545,volunteer state community college,volunteer state community college,1.0,True
+546,starcom,starcom,1.0,True
+547,lease crutcher lewis,lease crutcher lewis,1.0,True
+548,mitsubishi caterpillar forklift america,mitsubishi caterpillar forklift america,1.0,True
+549,xiologix,xiologix,1.0,True
+550,coresite,coresite,1.0,True
+551,expedient technology solutions,expedient technology solutions,1.0,True
+552,vht,vht,1.0,True
+553,optical cable,optical cable,1.0,True
+554,university of alabama,university of alabama,1.0,True
+555,marketone international,marketone international,1.0,True
+556,marcum,marcum,1.0,True
+557,west monroe partners,west monroe partners,1.0,True
+558,achieve3000,achieve3000,1.0,True
+559,js held,js held,1.0,True
+560,tigergraph,tigergraph,1.0,True
+561,international bridge,international bridge,1.0,True
+562,earnin,earnin,1.0,True
+563,interstate hotels  resorts,interstate hotels  resorts,1.0,True
+564,schildberg construction,schildberg construction,1.0,True
+565,peoplelink,peoplelink,1.0,True
+566,stuller,stuller,1.0,True
+567,aligned energy,aligned energy,1.0,True
+568,eventbrite,eventbrite,1.0,True
+569,luminar technologies,luminar technologies,1.0,True
+570,prestige care,prestige care,1.0,True
+571,santa rosa junior college,santa rosa junior college,1.0,True
+572,tenable,tenable,1.0,True
+573,j b sullivan,sullivan,1.0,True
+574,heritage pharmaceuticals,heritage pharmaceuticals,1.0,True
+575,paycor,paycor,1.0,True
+576,university of oregon,university of oregon,1.0,True
+577,a123 systems,a123 systems,1.0,True
+578,cape regional medical center,cape regional medical center,1.0,True
+579,equinix,equinix,1.0,True
+580,university of maryland,university of maryland,1.0,True
+581,garden city public schools,garden city public schools,1.0,True
+582,hostelworld,hostelworld,1.0,True
+583,structure tone,structure tone,1.0,True
+584,utah valley university,utah valley university,1.0,True
+585,biolife solutions,biolife solutions,1.0,True
+586,apex hcm,apex hcm,1.0,True
+587,addiction campuses,addiction campuses,1.0,True
+588,specialized bicycle components,specialized bicycle components,1.0,True
+589,higher learning technologies,higher learning technologies,1.0,True
+590,sigma equipment,sigma equipment,1.0,True
+591,cordenpharma,cordenpharma,1.0,True
+592,texas am university,texas am university,1.0,True
+593,clarke,clarke,1.0,True
+594,inari,arina,1.0,True
+595,the artcraft company,the artcraft company,1.0,True
+596,csi,csi,1.0,True
+597,hopebridge,hopebridge,1.0,True
+598,agi,agi,1.0,True
+599,coalfire,coalfire,1.0,True
+600,centre college,centre college,1.0,True
+601,frys electronics,frys electronics,1.0,True
+602,hartley  parker,hartley  parker,1.0,True
+603,quantum spatial,quantum spatial,1.0,True
+604,first green bank,first green bank,1.0,True
+605,aspen technologies,aspen technologies,1.0,True
+606,johnston county school district,johnston county school district,1.0,True
+607,wacker neuson,wacker neuson,1.0,True
+608,xmatters,xmatters,1.0,True
+609,osage casino,osage casino,1.0,True
+610,kelley kronenberg,kelley kronenberg,1.0,True
+611,george j igel  co,george j igel  co,1.0,True
+612,foundations recovery network,foundations recovery network,1.0,True
+613,black diamond advanced technology,black diamond advanced technology,1.0,True
+614,butler university,butler university,1.0,True
+615,allen tate,allen tate,1.0,True
+616,cts,cts,1.0,True
+617,andrew peller,andrew peller,1.0,True
+618,city of cincinnati,city of cincinnati,1.0,True
+619,frontier ag,frontier ag,1.0,True
+620,selecthealth,selecthealth,1.0,True
+621,opengov,opengov,1.0,True
+622,global healthcare resource,global healthcare resource,1.0,True
+623,church hill classics,church hill classics,1.0,True
+624,texas health resources,texas health resources,1.0,True
+625,cuvee,cuvee,1.0,True
+626,merlin international,merlin international,1.0,True
+627,domino data lab,domino data lab,1.0,True
+628,aqsacom,aqsacom,1.0,True
+629,mclean mortgage,mclean mortgage,1.0,True
+630,the moret,the moret,1.0,True
+631,apogee results,apogee results,1.0,True
+632,element three,element three,1.0,True
+633,morrison hershfield,morrison hershfield,1.0,True
+634,shoptech software  manufacturing software,shoptech software  manufacturing software,1.0,True
+635,henry ford college,henry ford college,1.0,True
+636,callon petroleum,callon petroleum,1.0,True
+637,california community colleges system,california community colleges system,1.0,True
+638,canopy partners,canopy partners,1.0,True
+639,firstfuel software,firstfuel software,1.0,True
+640,gf health products,gf health products,1.0,True
+641,commodore builders,commodore builders,1.0,True
+642,paxata,paxata,1.0,True
+643,linchris hotel,linchris hotel,1.0,True
+644,cps energy,cps energy,1.0,True
+645,texas mutual insurance company,texas mutual insurance company,1.0,True
+646,university of idaho,university of idaho,1.0,True
+647,infutor data solutions,infutor data solutions,1.0,True
+648,cook county government,cook county government,1.0,True
+649,vallarta supermarkets,vallarta supermarkets,1.0,True
+650,trapp family lodge,trapp family lodge,1.0,True
+651,mainfreight,mainfreight,1.0,True
+652,iq media,iq media,1.0,True
+653,kapnick insurance,kapnick insurance,1.0,True
+654,nova molecular technologies,nova molecular technologies,1.0,True
+655,device42,device42,1.0,True
+656,quick bridge funding,quick bridge funding,1.0,True
+657,cetera financial,cetera financial,1.0,True
+658,draftkings,draftkings,1.0,True
+659,acument global technologies,acument global technologies,1.0,True
+660,unitarian universalist association,unitarian universalist association,1.0,True
+661,aci communications,aci communications,1.0,True
+662,idexx laboratories,idexx laboratories,1.0,True
+663,berklee college of music,berklee college of music,1.0,True
+664,micro focus,micro focus,1.0,True
+665,frost  sullivan,frost  sullivan,1.0,True
+666,iherb,iherb,1.0,True
+667,javits center,javits center,1.0,True
+668,indiana regional medical center,indiana regional medical center,1.0,True
+669,hillsdale college,hillsdale college,1.0,True
+670,aarp,aarp,1.0,True
+671,jw player,jw player,1.0,True
+672,paparazzi accessories,paparazzi accessories,1.0,True
+673,fresh express,fresh express,1.0,True
+674,oncor electric delivery,oncor electric delivery,1.0,True
+675,united national bank,united national bank,1.0,True
+676,gehring,gehring,1.0,True
+677,george washington university,george washington university,1.0,True
+678,rootstock software,rootstock software,1.0,True
+679,monmouth college,monmouth college,1.0,True
+680,est,est,1.0,True
+681,whitebox advisors,whitebox advisors,1.0,True
+682,hudson pacific properties,hudson pacific properties,1.0,True
+683,ulmer  berne,ulmer  berne,1.0,True
+684,baillie gifford,baillie gifford,1.0,True
+685,michigan state university,michigan state university,1.0,True
+686,envoy global,envoy global,1.0,True
+687,kehe distributors,kehe distributors,1.0,True
+688,paint nite,paint nite,1.0,True
+689,activtrak,activtrak,1.0,True
+690,ilc dover,ilc dover,1.0,True
+691,resco products,resco products,1.0,True
+692,polyconcept north america,polyconcept north america,1.0,True
+693,grammarly,grammarly,1.0,True
+694,education pioneers,education pioneers,1.0,True
+695,l7 informatics,l7 informatics,1.0,True
+696,essex industries,essex industries,1.0,True
+697,gainsight,gainsight,1.0,True
+698,saint louis art museum,saint louis art museum,1.0,True
+699,vision rt,vision rt,1.0,True
+700,farmers business network,farmers business network,1.0,True
+701,identicard systems,identicard systems,1.0,True
+702,fellowship of christian athletes,fellowship of christian athletes,1.0,True
+703,presbyterian healthcare services,presbyterian healthcare services,1.0,True
+704,duolingo,duolingo,1.0,True
+705,cmd,cmd,1.0,True
+706,westat,westat,1.0,True
+707,symetra financial,symetra financial,1.0,True
+708,city of lubbock,city of lubbock,1.0,True
+709,united systems,united systems,1.0,True
+710,active network,active network,1.0,True
+711,consolidated communications,consolidated communications,1.0,True
+712,fivetran,fivetran,1.0,True
+713,riverview systems,riverview systems,1.0,True
+714,united bank,united bank,1.0,True
+715,veritas prep,veritas prep,1.0,True
+716,virginia commonwealth university,virginia commonwealth university,1.0,True
+717,adac automotive,adac automotive,1.0,True
+718,interactive brokers,interactive brokers,1.0,True
+719,raven lining systems,raven lining systems,1.0,True
+720,chenmed,chenmed,1.0,True
+721,arkansas tech university,arkansas tech university,1.0,True
+722,guhring,guhring,1.0,True
+723,onebridge,onebridge,1.0,True
+724,st lucie county fl,st lucie county fl,1.0,True
+725,98point6,98point6,1.0,True
+726,forward financing,forward financing,1.0,True
+727,a h belo,a h belo,1.0,True
+728,computech,computech,1.0,True
+729,omelveny  myers,omelveny  myers,1.0,True
+730,lewis roca rothgerber christie,lewis roca rothgerber christie,1.0,True
+731,customer engineering services,customer engineering services,1.0,True
+732,jackson lewis,jackson lewis,1.0,True
+733,channeladvisor,channeladvisor,1.0,True
+734,rectangle health,rectangle health,1.0,True
+735,langara college,langara college,1.0,True
+736,healthcarefirst,healthcarefirst,1.0,True
+737,safe harbor marinas,safe harbor marinas,1.0,True
+738,dsm technology consultants,dsm technology consultants,1.0,True
+739,asynchrony labs,asynchrony labs,1.0,True
+740,fox valley fire  safety,fox valley fire  safety,1.0,True
+741,mitsubishi electric us,mitsubishi electric us,1.0,True
+742,well done marketing,well done marketing,1.0,True
+743,cactus club cafe,cactus club cafe,1.0,True
+744,gemini consulting  services,gemini consulting  services,1.0,True
+745,insider,insider,1.0,True
+746,norwest venture partners,norwest venture partners,1.0,True
+747,keller,keller,1.0,True
+748,spitzer management,spitzer management,1.0,True
+749,semgroup,semgroup,1.0,True
+750,teletracking technologies,teletracking technologies,1.0,True
+751,celsius holdings,celsius holdings,1.0,True
+752,simpson thacher  bartlett,simpson thacher  bartlett,1.0,True
+753,the menninger clinic,the menninger clinic,1.0,True
+754,mcdermott will  emery,mcdermott will  emery,1.0,True
+755,brooklyn museum,brooklyn museum,1.0,True
+756,ganz,ganz,1.0,True
+757,gwinnett county government,gwinnett county government,1.0,True
+758,babst calland,babst calland,1.0,True
+759,epic,epic,1.0,True
+760,blue cross  blue shield of louisiana,blue cross blue shield of louisiana,1.0,True
+761,buffalo wild wings,buffalo wild wings,1.0,True
+762,quark,quark,1.0,True
+763,texas roadhouse,texas roadhouse,1.0,True
+764,iko industries,iko industries,1.0,True
+765,ilead,ilead,1.0,True
+766,sunbelt midwest,sunbelt midwest,1.0,True
+767,parsons,parsons,1.0,True
+768,stanford health care,stanford health care,1.0,True
+769,akkencloud,akkencloud,1.0,True
+770,guidance,guidance,1.0,True
+771,central michigan university,central michigan university,1.0,True
+772,northshore school district,northshore school district,1.0,True
+773,checkr,checkr,1.0,True
+774,southwestern industries,southwestern industries,1.0,True
+775,kaleo,kaleo,1.0,True
+776,colony brands,colony brands,1.0,True
+777,overhead door,overhead door,1.0,True
+778,talent logic,talent logic,1.0,True
+779,creare,creare,1.0,True
+780,open systems technologies,open systems technologies,1.0,True
+781,goop,goop,1.0,True
+782,netsmart technologies,netsmart technologies,1.0,True
+783,big horn county school district 1,big horn county school district 2,1.0,True
+784,goat,goat,1.0,True
+785,vi,vi,1.0,True
+786,yeshiva of greater washington,yeshiva of greater washington,1.0,True
+787,priority dispatch,priority dispatch,1.0,True
+788,hanover public school district,hanover public school district,1.0,True
+789,american institute of physics,american institute of physics,1.0,True
+790,envision technology advisors,envision technology advisors,1.0,True
+791,alphastaff,alphastaff,1.0,True
+792,family home health services,family home health services,1.0,True
+793,ashley house,ashley house,1.0,True
+794,frequentis,frequentis,1.0,True
+795,puget sound energy,puget sound energy,1.0,True
+796,turck,turck,1.0,True
+797,instamed,instamed,1.0,True
+798,maple leaf farms,maple leaf farms,1.0,True
+799,nashville area chamber of commerce,nashville area chamber of commerce,1.0,True
+800,north american family institute,north american family institute,1.0,True
+801,candid,candid,1.0,True
+802,mountainside hospital,mountainside hospital,1.0,True
+803,fulgent genetics,fulgent genetics,1.0,True
+804,qgiv,qgiv,1.0,True
+805,ace parking management,ace parking management,1.0,True
+806,delta dental of washington,delta dental of washington,1.0,True
+807,jeffer mangels butler  mitchell,jeffer mangels butler  mitchell,1.0,True
+808,crista ministries,crista ministries,1.0,True
+809,db engineering,db engineering,1.0,True
+810,university of southern indiana,university of southern indiana,1.0,True
+811,warren county school district,warren county school district,1.0,True
+812,signature healthcare,signature healthcare,1.0,True
+813,c squared systems,c squared systems,1.0,True
+814,cottingham  butler,cottingham  butler,1.0,True
+815,aunt bertha,aunt bertha,1.0,True
+816,huge,huge,1.0,True
+817,aquent,aquent,1.0,True
+818,redhill biopharma,redhill biopharma,1.0,True
+819,superior press,superior press,1.0,True
+820,united methodist retirement communities,united methodist retirement communities,1.0,True
+821,precisely,precisely,1.0,True
+822,examinetics,examinetics,1.0,True
+823,brazosport independent school district,brazosport independent school district,1.0,True
+824,savoye,savoye,1.0,True
+825,billcom,billcom,1.0,True
+826,outside gc,outside gc,1.0,True
+827,seminole county public schools,seminole county public schools,1.0,True
+828,bigelow laboratory for ocean sciences,bigelow laboratory for ocean sciences,1.0,True
+829,nfi industries,nfi industries,1.0,True
+830,convergeone,convergeone,1.0,True
+831,filevine,filevine,1.0,True
+832,whitley penn,whitley penn,1.0,True
+833,little,little,1.0,True
+834,blue federal credit union,blue federal credit union,1.0,True
+835,agilant solutions,agilant solutions,1.0,True
+836,onpoint,onpoint,1.0,True
+837,hitachi solutions,hitachi solutions,1.0,True
+838,ims companies,ims companies,1.0,True
+839,zennify,zennify,1.0,True
+840,oakwood homes,oakwood homes,1.0,True
+841,ipipeline,ipipeline,1.0,True
+842,jockey international,jockey international,1.0,True
+843,new era technology,new era technology,1.0,True
+844,connor,connor,1.0,True
+845,inshape health clubs,inshape health clubs,1.0,True
+846,carnegie mellon university,carnegie mellon university,1.0,True
+847,the widewaters,the widewaters,1.0,True
+848,carbonite,carbonite,1.0,True
+849,sparton,sparton,1.0,True
+850,century lending company,century lending company,1.0,True
+851,mohegan sun,mohegan sun,1.0,True
+852,stephenville isd,stephenville isd,1.0,True
+853,lambs farm,lambs farm,1.0,True
+854,burford capital,burford capital,1.0,True
+855,idaho national laboratory,idaho national laboratory,1.0,True
+856,tarter gate,tarter gate,1.0,True
+857,airwatch,airwatch,1.0,True
+858,very good security,very good security,1.0,True
+859,plansource,plansource,1.0,True
+860,uno restaurant holdings,uno restaurant holdings,1.0,True
+861,lumos networks,lumos networks,1.0,True
+862,smarsh,smarsh,1.0,True
+863,msr cosmos,msr cosmos,1.0,True
+864,university of arkansas at pine bluff,university of arkansas at pine bluff,1.0,True
+865,montgomery college,montgomery college,1.0,True
+866,national society of black engineers,national society of black engineers,1.0,True
+867,fargo jet center,fargo jet center,1.0,True
+868,riverside health system,riverside health system,1.0,True
+869,university of michigan,university of michigan,1.0,True
+870,hoffmaster,hoffmaster,1.0,True
+871,molloy college,molloy college,1.0,True
+872,healthstream,healthstream,1.0,True
+873,fiscalnote,fiscalnote,1.0,True
+874,booyah advertising,booyah advertising,1.0,True
+875,sonitrol pacific,sonitrol pacific,1.0,True
+876,levi ray  shoup,levi ray  shoup,1.0,True
+877,swm,swm,1.0,True
+878,seismic software,seismic software,1.0,True
+879,insultech,insultech,1.0,True
+880,super systems,super systems,1.0,True
+881,german american,german american,1.0,True
+882,cpc,cpc,1.0,True
+883,syndio,syndio,1.0,True
+884,infineum,infineum,1.0,True
+885,green thumb industries,green thumb industries,1.0,True
+886,panera bread,panera bread,1.0,True
+887,lutheran senior services,lutheran senior services,1.0,True
+888,cpcc,pccp,1.0,True
+889,columbus state community college,columbus state community college,1.0,True
+890,the park school,the park school,1.0,True
+891,merit,merit,1.0,True
+892,terbium labs,terbium labs,1.0,True
+893,dealersocket,dealersocket,1.0,True
+894,bashas,bashas,1.0,True
+895,hallmark financial services,hallmark financial services,1.0,True
+896,baldwin park unified school district,baldwin park unified school district,1.0,True
+897,macom,macom,1.0,True
+898,drummond company,drummond company,1.0,True
+899,kcf technologies,kcf technologies,1.0,True
+900,fico,fico,1.0,True
+901,east pennsboro area school district,east pennsboro area school district,1.0,True
+902,keurig green mountain,keurig green mountain,1.0,True
+903,tkda,tkda,1.0,True
+904,access,access,1.0,True
+905,north georgia technical college,north georgia technical college,1.0,True
+906,my social practice,my social practice,1.0,True
+907,jasper engines  transmissions,jasper engines  transmissions,1.0,True
+908,purewrx,purewrx,1.0,True
+909,ascential,ascential,1.0,True
+910,aarons,aarons,1.0,True
+911,amperity,amperity,1.0,True
+912,advisen,advisen,1.0,True
+913,unitypoint health,unitypoint health,1.0,True
+914,blue raven solar,blue raven solar,1.0,True
+915,central bank,central bank,1.0,True
+916,isg technology,isg technology,1.0,True
+917,acentek,acentek,1.0,True
+918,dakota county,dakota county,1.0,True
+919,moda operandi,moda operandi,1.0,True
+920,concordia university wisconsin,concordia university  wisconsin,1.0,True
+921,first advantage,first advantage,1.0,True
+922,prospera financial services,prospera financial services,1.0,True
+923,dr oetker,dr oetker,1.0,True
+924,sage age strategies,sage age strategies,1.0,True
+925,rutgers university,rutgers university,1.0,True
+926,critical mention,critical mention,1.0,True
+927,cpacket networks,cpacket networks,1.0,True
+928,camelot education,camelot education,1.0,True
+929,marriott vacations worldwide,marriott vacations worldwide,1.0,True
+930,west creek financial,west creek financial,1.0,True
+931,captive resources,captive resources,1.0,True
+932,selerity,selerity,1.0,True
+933,connectiverx,connectiverx,1.0,True
+934,strada education network,strada education network,1.0,True
+935,tegna,tegna,1.0,True
+936,weitz investment management,weitz investment management,1.0,True
+937,chef software,chef software,1.0,True
+938,qorvo,qorvo,1.0,True
+939,audience partners,audience partners,1.0,True
+940,metropolitan ymca of the oranges,metropolitan ymca of the oranges,1.0,True
+941,safe reflections,safe reflections,1.0,True
+942,information transport solutions,information transport solutions,1.0,True
+943,gateway school,gateway school,1.0,True
+944,vt industries,vt industries,1.0,True
+945,xps solutions,xps solutions,1.0,True
+946,theory,theory,1.0,True
+947,conservice,conservice,1.0,True
+948,idemia,idemia,1.0,True
+949,lasalle solutions,lasalle solutions,1.0,True
+950,collette,collette,1.0,True
+951,palermos pizza,palermos pizza,1.0,True
+952,topquadrant,topquadrant,1.0,True
+953,akira technologies,akira technologies,1.0,True
+954,argos usa,argos usa,1.0,True
+955,madonna rehabilitation hospital,madonna rehabilitation hospital,1.0,True
+956,innerworkings,innerworkings,1.0,True
+957,recruitics,recruitics,1.0,True
+958,henricksen,henricksen,1.0,True
+959,ermco,ermco,1.0,True
+960,sapiens,sapiens,1.0,True
+961,baird  warner,baird  warner,1.0,True
+962,enpro,enpro,1.0,True
+963,luxury mortgage,luxury mortgage,1.0,True
+964,diamond parking,diamond parking,1.0,True
+965,kingsbrook jewish medical center,kingsbrook jewish medical center,1.0,True
+966,oiles america,oiles america,1.0,True
+967,apex learning,apex learning,1.0,True
+968,wanzek construction,wanzek construction,1.0,True
+969,sutherland global services,sutherland global services,1.0,True
+970,onapsis,onapsis,1.0,True
+971,sightpath medical,sightpath medical,1.0,True
+972,live oak public libraries,live oak public libraries,1.0,True
+973,tate,tate,1.0,True
+974,russell stover candies,russell stover candies,1.0,True
+975,altaworx,altaworx,1.0,True
+976,reading horizons,reading horizons,1.0,True
+977,waukesha county,waukesha county,1.0,True
+978,entuitive,entuitive,1.0,True
+979,valley presbyterian hospital,valley presbyterian hospital,1.0,True
+980,hudl,hudl,1.0,True
+981,availity,availity,1.0,True
+982,american scaffold,american scaffold,1.0,True
+983,university of oklahoma,university of oklahoma,1.0,True
+984,cultural care au pair,cultural care au pair,1.0,True
+985,portsmouth high school,portsmouth high school,1.0,True
+986,gutcheck,gutcheck,1.0,True
+987,norway savings bank,norway savings bank,1.0,True
+988,abrisa technologies,abrisa technologies,1.0,True
+989,monumental sports  entertainment,monumental sports  entertainment,1.0,True
+990,atricure,atricure,1.0,True
+991,morris communications company,morris communications company,1.0,True
+992,grab,grab,1.0,True
+993,roblox,roblox,1.0,True
+994,spider strategies,spider strategies,1.0,True
+995,university of california  irvine,university of california  irvine,1.0,True
+996,loginext,loginext,1.0,True
+997,cornerstone systems,cornerstone systems,1.0,True
+998,teleworld solutions,teleworld solutions,1.0,True
+999,andrews university,andrews university,1.0,True
+1000,gonzaga university,gonzaga university,1.0,True
+1001,tgas advisors,tgas advisors,1.0,True
+1002,thiele kaolin company,thiele kaolin company,1.0,True
+1003,family first life,family first life,1.0,True
+1004,the odom,the odom,1.0,True
+1005,perch security,perch security,1.0,True
+1006,spectrum brands,spectrum brands,1.0,True
+1007,new peoples bank,new peoples bank,1.0,True
+1008,sandridge energy,sandridge energy,1.0,True
+1009,young life,young life,1.0,True
+1010,korte  luitjohan contractors,korte  luitjohan contractors,1.0,True
+1011,marta,marta,1.0,True
+1012,translationscom,translationscom,1.0,True
+1013,overaa construction,overaa construction,1.0,True
+1014,la salle academy,la salle academy,1.0,True
+1015,nisum technologies,nisum technologies,1.0,True
+1016,zep,zep,1.0,True
+1017,corsica technologies,corsica technologies,1.0,True
+1018,united biosource,united biosource,1.0,True
+1019,continental mapping consultants,continental mapping consultants,1.0,True
+1020,chromalox,chromalox,1.0,True
+1021,att performing arts center,att performing arts center,1.0,True
+1022,lee hecht harrison,lee hecht harrison,1.0,True
+1023,american advisors,american advisors,1.0,True
+1024,coventbridge,coventbridge,1.0,True
+1025,creative circle,creative circle,1.0,True
+1026,graham partners,graham partners,1.0,True
+1027,rockfish interactive,rockfish interactive,1.0,True
+1028,mgemi,mgemi,1.0,True
+1029,stream realty partners,stream realty partners,1.0,True
+1030,reo logistics,reo logistics,1.0,True
+1031,twistle,twistle,1.0,True
+1032,invitae,invitae,1.0,True
+1033,waldrop engineering,waldrop engineering,1.0,True
+1034,kolb electric,kolb electric,1.0,True
+1035,bek communications,bek communications,1.0,True
+1036,salud family health centers,salud family health centers,1.0,True
+1037,sovereign lending,sovereign lending,1.0,True
+1038,sheerid,sheerid,1.0,True
+1039,bailey nurseries,bailey nurseries,1.0,True
+1040,zayo,zayo,1.0,True
+1041,cmc,cmc,1.0,True
+1042,brinks,brinks,1.0,True
+1043,los angeles world airports,los angeles world airports,1.0,True
+1044,paylocity,paylocity,1.0,True
+1045,cedar financial,cedar financial,1.0,True
+1046,simplepart,simplepart,1.0,True
+1047,mtm technologies,mtm technologies,1.0,True
+1048,ciscor,ciscor,1.0,True
+1049,carta,carta,1.0,True
+1050,north suffolk mental health,north suffolk mental health,1.0,True
+1051,symbotic,symbotic,1.0,True
+1052,celerion,celerion,1.0,True
+1053,textron systems,textron systems,1.0,True
+1054,beverly hills unified school district,beverly hills unified school district,1.0,True
+1055,the cathedral school,the cathedral school,1.0,True
+1056,relativity,relativity,1.0,True
+1057,united states tennis association,united states tennis association,1.0,True
+1058,oh my green,oh my green,1.0,True
+1059,speedpro imaging,speedpro imaging,1.0,True
+1060,harvest,harvest,1.0,True
+1061,alpine power systems,alpine power systems,1.0,True
+1062,university of california irvine,university of california  irvine,1.0,True
+1063,liquidity services,liquidity services,1.0,True
+1064,auburn university,auburn university,1.0,True
+1065,edrington,edrington,1.0,True
+1066,tcs healthcare technologies,tcs healthcare technologies,1.0,True
+1067,us green building council,us green building council,1.0,True
+1068,enphase energy,enphase energy,1.0,True
+1069,young living essential oils,young living essential oils,1.0,True
+1070,city of kansas city mo,city of kansas city mo,1.0,True
+1071,orange county transportation authority,orange county transportation authority,1.0,True
+1072,navitas credit corp,navitas credit corp,1.0,True
+1073,garmong construction,garmong construction,1.0,True
+1074,capital asset exchange  trading,capital asset exchange  trading,1.0,True
+1075,avast,avast,1.0,True
+1076,frommer lawrence  haug,frommer lawrence  haug,1.0,True
+1077,eversana,eversana,1.0,True
+1078,ymca,ymca,1.0,True
+1079,3d corporate solutions,3d corporate solutions,1.0,True
+1080,future tech enterprise,future tech enterprise,1.0,True
+1081,the bakery cos,the bakery cos,1.0,True
+1082,air treatment,air treatment,1.0,True
+1083,eden,eden,1.0,True
+1084,reliance partners,reliance partners,1.0,True
+1085,national seating  mobility,national seating  mobility,1.0,True
+1086,formlabs,formlabs,1.0,True
+1087,veros real estate solutions,veros real estate solutions,1.0,True
+1088,insidetrack,insidetrack,1.0,True
+1089,yubico,yubico,1.0,True
+1090,progressive leasing,progressive leasing,1.0,True
+1091,merichem company,merichem company,1.0,True
+1092,xma,xma,1.0,True
+1093,kipp la schools,kipp la schools,1.0,True
+1094,hotchalk,hotchalk,1.0,True
+1095,ready robotics,ready robotics,1.0,True
+1096,university of the pacific,university of the pacific,1.0,True
+1097,city of newark,city of newark,1.0,True
+1098,verint systems,verint systems,1.0,True
+1099,drinker biddle  reath,drinker biddle  reath,1.0,True
+1100,caci,caci,1.0,True
+1101,saatchi  saatchi,saatchi  saatchi,1.0,True
+1102,st michaels school,st michaels school,1.0,True
+1103,cooper electrical construction company,cooper electrical construction company,1.0,True
+1104,kiamichi technology center,kiamichi technology center,1.0,True
+1105,poll everywhere,poll everywhere,1.0,True
+1106,gilsbar,gilsbar,1.0,True
+1107,pocono mountain school district,pocono mountain school district,1.0,True
+1108,guideposts,guideposts,1.0,True
+1109,intersection,intersection,1.0,True
+1110,fracht,fracht,1.0,True
+1111,presbyterian homes,presbyterian homes,1.0,True
+1112,valvoline,valvoline,1.0,True
+1113,scholle,scholle,1.0,True
+1114,portland state university,portland state university,1.0,True
+1115,jefferson county public schools,jefferson county public schools,1.0,True
+1116,kirkwood community college,kirkwood community college,1.0,True
+1117,wsecu,wsecu,1.0,True
+1118,summit partners,summit partners,1.0,True
+1119,denver health,denver health,1.0,True
+1120,rwc,rwc,1.0,True
+1121,art naturals,art naturals,1.0,True
+1122,broadpeak partners,broadpeak partners,1.0,True
+1123,dropbox,dropbox,1.0,True
+1124,raven industries,raven industries,1.0,True
+1125,bonnier,bonnier,1.0,True
+1126,accuvein,accuvein,1.0,True
+1127,terillium,terillium,1.0,True
+1128,jackson health system,jackson health system,1.0,True
+1129,goodrx,goodrx,1.0,True
+1130,pegasus technology solutions,pegasus technology solutions,1.0,True
+1131,wightman telecom,wightman telecom,1.0,True
+1132,ide,ide,1.0,True
+1133,dealer spike,dealer spike,1.0,True
+1134,forbes technical consulting,forbes technical consulting,1.0,True
+1135,gentex,gentex,1.0,True
+1136,la salle university,la salle university,1.0,True
+1137,springstone,springstone,1.0,True
+1138,eldercounsel,eldercounsel,1.0,True
+1139,firstservice residential,firstservice residential,1.0,True
+1140,command web offset company,command web offset company,1.0,True
+1141,caliburn international,caliburn international,1.0,True
+1142,adler university,adler university,1.0,True
+1143,pcnation,pcnation,1.0,True
+1144,amplifon,amplifon,1.0,True
+1145,hauser,hauser,1.0,True
+1146,gaia,gaia,1.0,True
+1147,epsilon,epsilon,1.0,True
+1148,mpulse mobile,mpulse mobile,1.0,True
+1149,american cast iron pipe company,american cast iron pipe company,1.0,True
+1150,pressreader,pressreader,1.0,True
+1151,calhoun community college,calhoun community college,1.0,True
+1152,st anns community,st anns community,1.0,True
+1153,sartorius,sartorius,1.0,True
+1154,daprile properties,daprile properties,1.0,True
+1155,hakkasan,hakkasan,1.0,True
+1156,southwest power pool,southwest power pool,1.0,True
+1157,fesco,fesco,1.0,True
+1158,pace systems,pace systems,1.0,True
+1159,new hanover county,new hanover county,1.0,True
+1160,moxie software,moxie software,1.0,True
+1161,lincoln property company,lincoln property company,1.0,True
+1162,norgren,norgren,1.0,True
+1163,nipro medical,nipro medical,1.0,True
+1164,lloyds register,lloyds register,1.0,True
+1165,national multiple sclerosis society,national multiple sclerosis society,1.0,True
+1166,reciprocity,reciprocity,1.0,True
+1167,national construction enterprises,national construction enterprises,1.0,True
+1168,washington state board for community  technical colleges,washington state board for community  technical colleges,1.0,True
+1169,concord marketing solutions,concord marketing solutions,1.0,True
+1170,logrhythm,logrhythm,1.0,True
+1171,dotloop,dotloop,1.0,True
+1172,shilo inns,shilo inns,1.0,True
+1173,ricor,ricor,1.0,True
+1174,thornton tomasetti,thornton tomasetti,1.0,True
+1175,modsquad,modsquad,1.0,True
+1176,liftforward,liftforward,1.0,True
+1177,vyaire medical,vyaire medical,1.0,True
+1178,webmd,webmd,1.0,True
+1179,the witness,the witness,1.0,True
+1180,pittsburg state university,pittsburg state university,1.0,True
+1181,huron consulting,huron consulting,1.0,True
+1182,g adventures,g adventures,1.0,True
+1183,hometrust bank,hometrust bank,1.0,True
+1184,uvalde memorial hospital,uvalde memorial hospital,1.0,True
+1185,chainalytics,chainalytics,1.0,True
+1186,the vermont country store,the vermont country store,1.0,True
+1187,saggezza,saggezza,1.0,True
+1188,fastsigns,fastsigns,1.0,True
+1189,aaa life insurance,aaa life insurance,1.0,True
+1190,antelope valley hospital,antelope valley hospital,1.0,True
+1191,ressler motors,ressler motors,1.0,True
+1192,mann mortgage,mann mortgage,1.0,True
+1193,tynker,tynker,1.0,True
+1194,faraday future,faraday future,1.0,True
+1195,browz,browz,1.0,True
+1196,vista equity partners,vista equity partners,1.0,True
+1197,mitre,mitre,1.0,True
+1198,harvard maintenance,harvard maintenance,1.0,True
+1199,mve  partners,mve  partners,1.0,True
+1200,katz americas,katz americas,1.0,True
+1201,electroswitch,electroswitch,1.0,True
+1202,minnesota historical society,minnesota historical society,1.0,True
+1203,meyers nave,meyers nave,1.0,True
+1204,qrc technologies,qrc technologies,1.0,True
+1205,little rock school district,little rock school district,1.0,True
+1206,cascade designs,cascade designs,1.0,True
+1207,western new england university,western new england university,1.0,True
+1208,arrow exterminators,arrow exterminators,1.0,True
+1209,hawaii life real estate brokers,hawaii life real estate brokers,1.0,True
+1210,hogarth worldwide,hogarth worldwide,1.0,True
+1211,southern methodist university,southern methodist university,1.0,True
+1212,udp,udp,1.0,True
+1213,group delphi,group delphi,1.0,True
+1214,briljent,briljent,1.0,True
+1215,fingerpaint,fingerpaint,1.0,True
+1216,fcr,fcr,1.0,True
+1217,rudolph libbe,rudolph libbe,1.0,True
+1218,acorns,acorns,1.0,True
+1219,coilcraft,coilcraft,1.0,True
+1220,doit international,doit international,1.0,True
+1221,red lobster,red lobster,1.0,True
+1222,amscan,amscan,1.0,True
+1223,s a miro,miro,1.0,True
+1224,cleveland heartlab,cleveland heartlab,1.0,True
+1225,cedrus,cedrus,1.0,True
+1226,waukesha county technical college,waukesha county technical college,1.0,True
+1227,herman miller,herman miller,1.0,True
+1228,bkd,bkd,1.0,True
+1229,medalogix,medalogix,1.0,True
+1230,stripe,stripe,1.0,True
+1231,soundhound,soundhound,1.0,True
+1232,university of houston,university of houston,1.0,True
+1233,zs associates,zs associates,1.0,True
+1234,horry telephone cooperative,horry telephone cooperative,1.0,True
+1235,silvertech,silvertech,1.0,True
+1236,cloudhealth technologies,cloudhealth technologies,1.0,True
+1237,black box,black box,1.0,True
+1238,insulet,insulet,1.0,True
+1239,recruitercom,recruitercom,1.0,True
+1240,the university of texas at austin,the university of texas at austin,1.0,True
+1241,educational testing service,educational testing service,1.0,True
+1242,abiomed,abiomed,1.0,True
+1243,electra,electra,1.0,True
+1244,spoton,spoton,1.0,True
+1245,university of houston  clear lake,university of houston  clear lake,1.0,True
+1246,alight solutions,alight solutions,1.0,True
+1247,mcafee,mcafee,1.0,True
+1248,slalom,slalom,1.0,True
+1249,eze castle integration,eze castle integration,1.0,True
+1250,myriad genetics,myriad genetics,1.0,True
+1251,gaf,gaf,1.0,True
+1252,symmons industries,symmons industries,1.0,True
+1253,phase2,phase2,1.0,True
+1254,dentaquest,dentaquest,1.0,True
+1255,public consulting,public consulting,1.0,True
+1256,automattic,automattic,1.0,True
+1257,peopleai,peopleai,1.0,True
+1258,university of north carolina at charlotte,university of north carolina at charlotte,1.0,True
+1259,conviva,conviva,1.0,True
+1260,zoominfo,zoominfo,1.0,True
+1261,packsize,packsize,1.0,True
+1262,cincom systems,cincom systems,1.0,True
+1263,aprimo,aprimo,1.0,True
+1264,sparta systems,sparta systems,1.0,True
+1265,university of florida,university of florida,1.0,True
+1266,midwest communications,midwest communications,1.0,True
+1267,ascendis pharma,ascendis pharma,1.0,True
+1268,santa clara family health plan,santa clara family health plan,1.0,True
+1269,zoom video communications,zoom video communications,1.0,True
+1270,california state university fullerton,california state university fullerton,1.0,True
+1271,wilkes university,wilkes university,1.0,True
+1272,benefitmall,benefitmall,1.0,True
+1273,flexport,flexport,1.0,True
+1274,von maur,von maur,1.0,True
+1275,hootsuite,hootsuite,1.0,True
+1276,papaya global,papaya global,1.0,True
+1277,crum  forster,crum  forster,1.0,True
+1278,the university of british columbia,the university of british columbia,1.0,True
+1279,stifel,stifel,1.0,True
+1280,san diego state university,san diego state university,1.0,True
+1281,parexel,parexel,1.0,True
+1282,full sail university,full sail university,1.0,True
+1283,columbia university,columbia university,1.0,True
+1284,phenom people,phenom people,1.0,True
+1285,xavier university,xavier university,1.0,True
+1286,fried frank,fried frank,1.0,True
+1287,atb financial,atb financial,1.0,True
+1288,university of california  san diego,university of california  san diego,1.0,True
+1289,florida polytechnic university,florida polytechnic university,1.0,True
+1290,tokio marine hcc,tokio marine hcc,1.0,True
+1291,oportun,oportun,1.0,True
+1292,rgp,rgp,1.0,True
+1293,zoomin,zoomin,1.0,True
+1294,orange county public schools,orange county public schools,1.0,True
+1295,forrester research,forrester research,1.0,True
+1296,northwestern university,northwestern university,1.0,True
+1297,massachusetts institute of technology,massachusetts institute of technology,1.0,True
+1298,georgia institute of technology,georgia institute of technology,1.0,True
+1299,scribd,scribd,1.0,True
+1300,north carolina state university,north carolina state university,1.0,True
+1301,toyota boshoku america,toyota boshoku america,1.0,True
+1302,deer valley resort,deer valley resort,1.0,True
+1303,userzoom,userzoom,1.0,True
+1304,allegion,allegion,1.0,True
+1305,university of toronto,university of toronto,1.0,True
+1306,university of nevada las vegas,university of nevada  las vegas,1.0,True
+1307,northeastern university,northeastern university,1.0,True
+1308,syracuse university,syracuse university,1.0,True
+1309,yale university,yale university,1.0,True
+1310,corvus insurance,corvus insurance,1.0,True
+1311,rochester institute of technology,rochester institute of technology,1.0,True
+1312,pure storage,pure storage,1.0,True
+1313,university of wisconsin  madison,university of wisconsin  madison,1.0,True
+1314,university of ottawa,university of ottawa,1.0,True
+1315,nasa jet propulsion laboratory,nasa jet propulsion laboratory,1.0,True
+1316,fortinet,fortinet,1.0,True
+1317,olympus,olympus,1.0,True
+1318,presidio,presidio,1.0,True
+1319,hanover research,hanover research,1.0,True
+1320,tealium,tealium,1.0,True
+1321,canadian broadcasting,canadian broadcasting,1.0,True
+1322,western michigan university,western michigan university,1.0,True
+1323,compass,compass,1.0,True
+1324,illumio,illumio,1.0,True
+1325,city of boston,city of boston,1.0,True
+1326,holland  hart,holland  hart,1.0,True
+1327,perficient,perficient,1.0,True
+1328,passport,passport,1.0,True
+1329,capilano university,capilano university,1.0,True
+1330,promethean,promethean,1.0,True
+1331,fireeye,fireeye,1.0,True
+1332,michigan technological university,michigan technological university,1.0,True
+1333,university of houston  downtown,university of houston  downtown,1.0,True
+1334,mediafly,mediafly,1.0,True
+1335,churnzero,churnzero,1.0,True
+1336,vanasse hangen brustlin,vanasse hangen brustlin,1.0,True
+1337,university of waterloo,university of waterloo,1.0,True
+1338,moss adams,moss adams,1.0,True
+1339,constant contact,constant contact,1.0,True
+1340,workiva,workiva,1.0,True
+1341,quantum health,quantum health,1.0,True
+1342,university of connecticut,university of connecticut,1.0,True
+1343,path,path,1.0,True
+1344,wd partners,wd partners,1.0,True
+1345,kpi partners,kpi partners,1.0,True
+1346,concordia college,concordia college,1.0,True
+1347,gehan homes,gehan homes,1.0,True
+1348,wave electronics,wave electronics,1.0,True
+1349,american institute of chemical engineers,american institute of chemical engineers,1.0,True
+1350,merakey,merakey,1.0,True
+1351,embodied,embodied,1.0,True
+1352,middle tennessee state university,middle tennessee state university,1.0,True
+1353,clinical computer systems,clinical computer systems,1.0,True
+1354,dahill,dahill,1.0,True
+1355,onix networking,onix networking,1.0,True
+1356,mailinator,mailinator,1.0,True
+1357,rfip,rfip,1.0,True
+1358,vectorworks,vectorworks,1.0,True
+1359,tax defense network,tax defense network,1.0,True
+1360,kirby restaurant  chemical supply,kirby restaurant  chemical supply,1.0,True
+1361,industrious,industrious,1.0,True
+1362,air force,air force,1.0,True
+1363,advisornet financial,advisornet financial,1.0,True
+1364,governors state university,governors state university,1.0,True
+1365,halifax health,halifax health,1.0,True
+1366,src,src,1.0,True
+1367,point b,point b,1.0,True
+1368,sereno,sereno,1.0,True
+1369,beacon health system,beacon health system,1.0,True
+1370,enjoy technology,enjoy technology,1.0,True
+1371,paradigm life,paradigm life,1.0,True
+1372,convergint technologies,convergint technologies,1.0,True
+1373,the bradford,the bradford,1.0,True
+1374,lancaster archery supply,lancaster archery supply,1.0,True
+1375,hawaii health systems,hawaii health systems,1.0,True
+1376,brightline,brightline,1.0,True
+1377,bi worldwide,bi worldwide,1.0,True
+1378,american financial resources,american financial resources,1.0,True
+1379,true value company,true value company,1.0,True
+1380,via oncology,via oncology,1.0,True
+1381,talos energy,talos energy,1.0,True
+1382,great dane,great dane,1.0,True
+1383,waymo,waymo,1.0,True
+1384,netbase solutions,netbase solutions,1.0,True
+1385,corus360,corus360,1.0,True
+1386,hilcorp energy company,hilcorp energy company,1.0,True
+1387,delta faucet,delta faucet,1.0,True
+1388,itech solutions,itech solutions,1.0,True
+1389,pointclickcare,pointclickcare,1.0,True
+1390,codonics,codonics,1.0,True
+1391,laborie,laborie,1.0,True
+1392,duty first consulting,duty first consulting,1.0,True
+1393,miro,miro,1.0,True
+1394,composites one,composites one,1.0,True
+1395,college nannies  tutors,college nannies tutors,1.0,True
+1396,empathiq,empathiq,1.0,True
+1397,megafood,megafood,1.0,True
+1398,atlanticus holdings,atlanticus holdings,1.0,True
+1399,wvu medicine,wvu medicine,1.0,True
+1400,yavapai regional medical center,yavapai regional medical center,1.0,True
+1401,wealthengine,wealthengine,1.0,True
+1402,alamo title company,alamo title company,1.0,True
+1403,sdl,sdl,1.0,True
+1404,great expressions dental centers,great expressions dental centers,1.0,True
+1405,edts,edts,1.0,True
+1406,caseware international,caseware international,1.0,True
+1407,docupace,docupace,1.0,True
+1408,oklahoma state university,oklahoma state university,1.0,True
+1409,mobileiron,mobileiron,1.0,True
+1410,conejo valley unified school district,conejo valley unified school district,1.0,True
+1411,blackline systems,blackline systems,1.0,True
+1412,mott macdonald,mott macdonald,1.0,True
+1413,structured communication systems,structured communication systems,1.0,True
+1414,florida state university,florida state university,1.0,True
+1415,unilog,unilog,1.0,True
+1416,mcgill university,mcgill university,1.0,True
+1417,teamdynamix,teamdynamix,1.0,True
+1418,blue chip marketing worldwide,blue chip marketing worldwide,1.0,True
+1419,georgia state university,georgia state university,1.0,True
+1420,community brands,community brands,1.0,True
+1421,linklaters,linklaters,1.0,True
+1422,world bank,world bank,1.0,True
+1423,national renewable energy laboratory,national renewable energy laboratory,1.0,True
+1424,cloudian,cloudian,1.0,True
+1425,biggby coffee,biggby coffee,1.0,True
+1426,gryphon networks,gryphon networks,1.0,True
+1427,kofax,kofax,1.0,True
+1428,thomas jefferson university,thomas jefferson university,1.0,True
+1429,b3,b3,1.0,True
+1430,chargepoint,chargepoint,1.0,True
+1431,enterra solutions,enterra solutions,1.0,True
+1432,university of victoria,university of victoria,1.0,True
+1433,utah state university,utah state university,1.0,True
+1434,university of pittsburgh,university of pittsburgh,1.0,True
+1435,howard hughes medical institute,howard hughes medical institute,1.0,True
+1436,episerver,episerver,1.0,True
+1437,bandwidth,bandwidth,1.0,True
+1438,instart logic,instart logic,1.0,True
+1439,real capital analytics,real capital analytics,1.0,True
+1440,service electric cablevision,service electric cablevision,1.0,True
+1441,helpsystems,helpsystems,1.0,True
+1442,ae business solutions,ae business solutions,1.0,True
+1443,texas am university  commerce,texas am university  commerce,1.0,True
+1444,bracco diagnostics,bracco diagnostics,1.0,True
+1445,renewable energy,renewable energy,1.0,True
+1446,bluefin payment systems,bluefin payment systems,1.0,True
+1447,indeed,indeed,1.0,True
+1448,brp,brp,1.0,True
+1449,pinterest,pinterest,1.0,True
+1450,infor,infor,1.0,True
+1451,paul hastings,paul hastings,1.0,True
+1452,arizona state university,arizona state university,1.0,True
+1453,university of toledo,university of toledo,1.0,True
+1454,etna interactive,etna interactive,1.0,True
+1455,kayak,kayak,1.0,True
+1456,metropolitan state university of denver,metropolitan state university of denver,1.0,True
+1457,validity,validity,1.0,True
+1458,virtua health,virtua health,1.0,True
+1459,texas am university  corpus christi,texas am university  corpus christi,1.0,True
+1460,loyola marymount university,loyola marymount university,1.0,True
+1461,zscaler,zscaler,1.0,True
+1462,welch allyn,welch allyn,1.0,True
+1463,teach for america,teach for america,1.0,True
+1464,lexisnexis,lexisnexis,1.0,True
+1465,arup laboratories,arup laboratories,1.0,True
+1466,acme tools,acme tools,1.0,True
+1467,beyondtrust,beyondtrust,1.0,True
+1468,glenair,glenair,1.0,True
+1469,sage integration,sage integration,1.0,True
+1470,ballard spahr,ballard spahr,1.0,True
+1471,navisite,navisite,1.0,True
+1472,apriva,apriva,1.0,True
+1473,intelligent waves,intelligent waves,1.0,True
+1474,ace asphalt,ace asphalt,1.0,True
+1475,colorado state university  pueblo,colorado state university  pueblo,1.0,True
+1476,kellogg community college,kellogg community college,1.0,True
+1477,covia,covia,1.0,True
+1478,university of notre dame,university of notre dame,1.0,True
+1479,lifesouth community blood centers,lifesouth community blood centers,1.0,True
+1480,world bicycle relief,world bicycle relief,1.0,True
+1481,conservation international,conservation international,1.0,True
+1482,doterra,doterra,1.0,True
+1483,st benedict at auburndale,st benedict at auburndale,1.0,True
+1484,klick,klick,1.0,True
+1485,singlewire software,singlewire software,1.0,True
+1486,hirez studios,hirez studios,1.0,True
+1487,envestnet,envestnet,1.0,True
+1488,brightview senior living,brightview senior living,1.0,True
+1489,dallas area rapid transit,dallas area rapid transit,1.0,True
+1490,community care plan,community care plan,1.0,True
+1491,bizzabo,bizzabo,1.0,True
+1492,omi industries,omi industries,1.0,True
+1493,university of massachusetts amherst,university of massachusetts  amherst,1.0,True
+1494,trinet,trinet,1.0,True
+1495,hired,hired,1.0,True
+1496,avalon health care,avalon health care,1.0,True
+1497,hubbell,hubbell,1.0,True
+1498,handshake,handshake,1.0,True
+1499,marketing management,marketing management,1.0,True
+1500,brother rice high school,brother rice high school,1.0,True
+1501,kontron,kontron,1.0,True
+1502,tsunami xr,tsunami xr,1.0,True
+1503,clemco industries,clemco industries,1.0,True
+1504,welch packaging,welch packaging,1.0,True
+1505,the college of wooster,the college of wooster,1.0,True
+1506,golenbock eiseman assor bell  peskoe,golenbock eiseman assor bell  peskoe,1.0,True
+1507,rockbot,rockbot,1.0,True
+1508,pimco,pimco,1.0,True
+1509,allen matkins leck gamble mallory  natsis,allen matkins leck gamble mallory  natsis,1.0,True
+1510,the wine enthusiast,the wine enthusiast,1.0,True
+1511,inflo,inflo,1.0,True
+1512,oregon state university,oregon state university,1.0,True
+1513,gray construction,gray construction,1.0,True
+1514,multivac,multivac,1.0,True
+1515,rsa,rsa,1.0,True
+1516,jtb usa,jtb usa,1.0,True
+1517,sallie mae,sallie mae,1.0,True
+1518,regional west medical center,regional west medical center,1.0,True
+1519,eating recovery center,eating recovery center,1.0,True
+1520,townebank,townebank,1.0,True
+1521,grinnell college,grinnell college,1.0,True
+1522,retail solutions,retail solutions,1.0,True
+1523,wellmed medical,wellmed medical,1.0,True
+1524,condotek,condotek,1.0,True
+1525,intellia therapeutics,intellia therapeutics,1.0,True
+1526,onelogin,onelogin,1.0,True
+1527,dematic,dematic,1.0,True
+1528,general datatech,general datatech,1.0,True
+1529,florida atlantic university,florida atlantic university,1.0,True
+1530,klh engineers,klh engineers,1.0,True
+1531,costain,costain,1.0,True
+1532,buesing corp,buesing corp,1.0,True
+1533,franciscan alliance,franciscan alliance,1.0,True
+1534,helloworld,helloworld,1.0,True
+1535,positive coaching alliance,positive coaching alliance,1.0,True
+1536,lincoln surgical hospital,lincoln surgical hospital,1.0,True
+1537,navco,navco,1.0,True
+1538,accent controls,accent controls,1.0,True
+1539,nazdar,nazdar,1.0,True
+1540,texas association of community health centers,texas association of community health centers,1.0,True
+1541,bwi,bwi,1.0,True
+1542,endologix,endologix,1.0,True
+1543,privia health,privia health,1.0,True
+1544,howard bank,howard bank,1.0,True
+1545,mctv,mctv,1.0,True
+1546,rothschild investment,rothschild investment,1.0,True
+1547,eaton  berube insurance agency,eaton  berube insurance agency,1.0,True
+1548,directbuy,directbuy,1.0,True
+1549,absher construction company,absher construction company,1.0,True
+1550,general dynamics land systems,general dynamics land systems,1.0,True
+1551,wayside technology,wayside technology,1.0,True
+1552,pci,pci,1.0,True
+1553,hopewest,hopewest,1.0,True
+1554,evergreen systems,evergreen systems,1.0,True
+1555,bigtincan,bigtincan,1.0,True
+1556,chicos fas,chicos fas,1.0,True
+1557,harvard bioscience,harvard bioscience,1.0,True
+1558,savor street foods,savor street foods,1.0,True
+1559,audax,audax,1.0,True
+1560,monroe tractor  implement co,monroe tractor  implement co,1.0,True
+1561,girl scouts of western washington,girl scouts of western washington,1.0,True
+1562,utah scientific,utah scientific,1.0,True
+1563,inspire medical systems,inspire medical systems,1.0,True
+1564,linqm,linqm,1.0,True
+1565,sacred heart school,sacred heart school,1.0,True
+1566,banco popular de puerto rico,banco popular de puerto rico,1.0,True
+1567,core health  fitness,core health  fitness,1.0,True
+1568,platform 3 solutions,platform 3 solutions,1.0,True
+1569,federal heath sign company,federal heath sign company,1.0,True
+1570,fortress solutions,fortress solutions,1.0,True
+1571,neuberger berman,neuberger berman,1.0,True
+1572,c2 education,c2 education,1.0,True
+1573,onpoint community credit union,onpoint community credit union,1.0,True
+1574,canonical,canonical,1.0,True
+1575,intelligent demand,intelligent demand,1.0,True
+1576,southeastern louisiana university,southeastern louisiana university,1.0,True
+1577,keuka college,keuka college,1.0,True
+1578,scosche industries,scosche industries,1.0,True
+1579,corepower yoga,corepower yoga,1.0,True
+1580,tristar insurance,tristar insurance,1.0,True
+1581,customer dynamics,customer dynamics,1.0,True
+1582,clark county school district,clark county school district,1.0,True
+1583,kehillah jewish high school,kehillah jewish high school,1.0,True
+1584,montana state university,montana state university,1.0,True
+1585,hussmann,hussmann,1.0,True
+1586,skidmore studio,skidmore studio,1.0,True
+1587,nixon medical,nixon medical,1.0,True
+1588,carolinaeast health system,carolinaeast health system,1.0,True
+1589,baylor university,baylor university,1.0,True
+1590,root insurance,root insurance,1.0,True
+1591,cape fear academy,cape fear academy,1.0,True
+1592,university of southern california,university of southern california,1.0,True
+1593,trackvia,trackvia,1.0,True
+1594,mccs,mccs,1.0,True
+1595,hart,hart,1.0,True
+1596,unicarriers americas,unicarriers americas,1.0,True
+1597,paramount pictures,paramount pictures,1.0,True
+1598,beck ag,beck ag,1.0,True
+1599,transact technologies,transact technologies,1.0,True
+1600,millersville university,millersville university,1.0,True
+1601,advanced systems,advanced systems,1.0,True
+1602,skyline products,skyline products,1.0,True
+1603,curriculum associates,curriculum associates,1.0,True
+1604,go nimbly,go nimbly,1.0,True
+1605,social reality,social reality,1.0,True
+1606,james madison university,james madison university,1.0,True
+1607,hope network,hope network,1.0,True
+1608,mastronardi produce,mastronardi produce,1.0,True
+1609,san jacinto college,san jacinto college,1.0,True
+1610,bioduro,bioduro,1.0,True
+1611,avendra,avendra,1.0,True
+1612,national insurance crime bureau,national insurance crime bureau,1.0,True
+1613,innodata,innodata,1.0,True
+1614,traction on demand,traction on demand,1.0,True
+1615,mclaren health care,mclaren health care,1.0,True
+1616,injured workers pharmacy,injured workers pharmacy,1.0,True
+1617,big leap,big leap,1.0,True
+1618,kewaunee scientific,kewaunee scientific,1.0,True
+1619,sharpspring,sharpspring,1.0,True
+1620,brakebush brothers,brakebush brothers,1.0,True
+1621,casamba,casamba,1.0,True
+1622,megapath,megapath,1.0,True
+1623,american water works,american water works,1.0,True
+1624,wheels,wheels,1.0,True
+1625,trombetta,trombetta,1.0,True
+1626,cyberspace solutions,cyberspace solutions,1.0,True
+1627,university of south florida,university of south florida,1.0,True
+1628,farmers mutual hail insurance company of iowa,farmers mutual hail insurance company of iowa,1.0,True
+1629,lime,lime,1.0,True
+1630,computer data source,computer data source,1.0,True
+1631,mtx,mtx,1.0,True
+1632,travel insured international,travel insured international,1.0,True
+1633,suneva medical,suneva medical,1.0,True
+1634,hrchitect,hrchitect,1.0,True
+1635,cross river bank,cross river bank,1.0,True
+1636,greenbaum rowe smith  davis,greenbaum rowe smith  davis,1.0,True
+1637,teneo,teneo,1.0,True
+1638,phytelligence,phytelligence,1.0,True
+1639,wasserstrom,wasserstrom,1.0,True
+1640,capstone consulting,capstone consulting,1.0,True
+1641,upright law,upright law,1.0,True
+1642,lassonde,lassonde,1.0,True
+1643,implus,implus,1.0,True
+1644,mclarens,mclarens,1.0,True
+1645,away,away,1.0,True
+1646,encore capital,encore capital,1.0,True
+1647,manitou,manitou,1.0,True
+1648,yeshiva university,yeshiva university,1.0,True
+1649,summit medical,summit medical,1.0,True
+1650,nep,nep,1.0,True
+1651,world vision,world vision,1.0,True
+1652,propak,propak,1.0,True
+1653,mh equipment,mh equipment,1.0,True
+1654,who what wear,who what wear,1.0,True
+1655,trimas,trimas,1.0,True
+1656,worldwide clinical trials,worldwide clinical trials,1.0,True
+1657,shiloh industries,shiloh industries,1.0,True
+1658,nintendo of america,nintendo of america,1.0,True
+1659,explorer pipeline,explorer pipeline,1.0,True
+1660,capstone turbine,capstone turbine,1.0,True
+1661,pasco county schools,pasco county schools,1.0,True
+1662,arcade beauty,arcade beauty,1.0,True
+1663,lutron electronics,lutron electronics,1.0,True
+1664,lake charles memorial health system,lake charles memorial health system,1.0,True
+1665,parchem,parchem,1.0,True
+1666,squire patton boggs,squire patton boggs,1.0,True
+1667,united heartland,united heartland,1.0,True
+1668,shl,shl,1.0,True
+1669,cr england,cr england,1.0,True
+1670,oxford road,oxford road,1.0,True
+1671,anacostia rail holdings,anacostia rail holdings,1.0,True
+1672,bierschbach equipment  supply,bierschbach equipment  supply,1.0,True
+1673,wesleyan college,wesleyan college,1.0,True
+1674,wheeler material handling,wheeler material handling,1.0,True
+1675,ambra health,ambra health,1.0,True
+1676,advance storage products,advance storage products,1.0,True
+1677,larson engineering,larson engineering,1.0,True
+1678,clayco,clayco,1.0,True
+1679,larry john wright,larry john wright,1.0,True
+1680,tensar,tensar,1.0,True
+1681,ck systems,ck systems,1.0,True
+1682,american autowire,american autowire,1.0,True
+1683,lilt,lilt,1.0,True
+1684,archdiocese of milwaukee,archdiocese of milwaukee,1.0,True
+1685,sig sauer,sig sauer,1.0,True
+1686,psg global solutions,psg global solutions,1.0,True
+1687,the principal consulting,the principal consulting,1.0,True
+1688,emporia state university,emporia state university,1.0,True
+1689,the stow company,the stow company,1.0,True
+1690,primerevenue,primerevenue,1.0,True
+1691,miller electric mfg co,miller electric mfg co,1.0,True
+1692,bettercloud,bettercloud,1.0,True
+1693,hydraforce,hydraforce,1.0,True
+1694,reedman toll,reedman toll,1.0,True
+1695,mrc global,mrc global,1.0,True
+1696,pomona capital,pomona capital,1.0,True
+1697,alta equipment company,alta equipment company,1.0,True
+1698,solutionz conferencing,solutionz conferencing,1.0,True
+1699,bc hydro,bc hydro,1.0,True
+1700,emcore,emcore,1.0,True
+1701,joplin schools,joplin schools,1.0,True
+1702,braswell family farms,braswell family farms,1.0,True
+1703,neilmed pharmaceuticals,neilmed pharmaceuticals,1.0,True
+1704,crunchbase,crunchbase,1.0,True
+1705,buckeye broadband,buckeye broadband,1.0,True
+1706,cliftonlarsonallen,cliftonlarsonallen,1.0,True
+1707,pittsburgh pirates,pittsburgh pirates,1.0,True
+1708,resmed,resmed,1.0,True
+1709,clearbags,clearbags,1.0,True
+1710,the grove,the grove,1.0,True
+1711,neo4j,neo4j,1.0,True
+1712,roper pump company,roper pump company,1.0,True
+1713,advance medical,advance medical,1.0,True
+1714,tenantbase,tenantbase,1.0,True
+1715,cbiz,cbiz,1.0,True
+1716,wolfe research,wolfe research,1.0,True
+1717,filson,filson,1.0,True
+1718,khoros,khoros,1.0,True
+1719,bel fuse,bel fuse,1.0,True
+1720,changepoint,changepoint,1.0,True
+1721,hanmi bank,hanmi bank,1.0,True
+1722,trifecta technologies,trifecta technologies,1.0,True
+1723,sjv,sjv,1.0,True
+1724,smithgroup,smithgroup,1.0,True
+1725,advantech,advantech,1.0,True
+1726,fieldaware,fieldaware,1.0,True
+1727,east penn manufacturing,east penn manufacturing,1.0,True
+1728,casenet,casenet,1.0,True
+1729,baden academy charter school,baden academy charter school,1.0,True
+1730,t3,t3,1.0,True
+1731,standish management,standish management,1.0,True
+1732,cal poly pomona,cal poly pomona,1.0,True
+1733,granite school district,granite school district,1.0,True
+1734,episcopal academy,episcopal academy,1.0,True
+1735,acuity,acuity,1.0,True
+1736,earnest,earnest,1.0,True
+1737,radius networks,radius networks,1.0,True
+1738,eaton vance,eaton vance,1.0,True
+1739,observepoint,observepoint,1.0,True
+1740,the olympia companies,the olympia companies,1.0,True
+1741,walter p moore,walter moore,1.0,True
+1742,university of redlands,university of redlands,1.0,True
+1743,vyopta,vyopta,1.0,True
+1744,brandwatch,brandwatch,1.0,True
+1745,the intersect,the intersect,1.0,True
+1746,nidec minster,nidec minster,1.0,True
+1747,michael  son services,michael  son services,1.0,True
+1748,jenkins auto,jenkins auto,1.0,True
+1749,mister car wash,mister car wash,1.0,True
+1750,iradimed,iradimed,1.0,True
+1751,ra medical systems,ra medical systems,1.0,True
+1752,york college of pennsylvania,york college of pennsylvania,1.0,True
+1753,kost usa,kost usa,1.0,True
+1754,air wisconsin airlines,air wisconsin airlines,1.0,True
+1755,marin academy,marin academy,1.0,True
+1756,enterprisedb,enterprisedb,1.0,True
+1757,corrigo,corrigo,1.0,True
+1758,atlanticare,atlanticare,1.0,True
+1759,acd systems,acd systems,1.0,True
+1760,skender construction,skender construction,1.0,True
+1761,worldwide express,worldwide express,1.0,True
+1762,solon,solon,1.0,True
+1763,american pacific mortgage,american pacific mortgage,1.0,True
+1764,university of virginia health system,university of virginia health system,1.0,True
+1765,cross insurance,cross insurance,1.0,True
+1766,quaker valley school district,quaker valley school district,1.0,True
+1767,laitram,laitram,1.0,True
+1768,mvp sports clubs,mvp sports clubs,1.0,True
+1769,ergon,ergon,1.0,True
+1770,zero to three,zero to three,1.0,True
+1771,charles county public schools,charles county public schools,1.0,True
+1772,providence college,providence college,1.0,True
+1773,frandsen financial,frandsen financial,1.0,True
+1774,nvisia,nvisia,1.0,True
+1775,ark solutions,ark solutions,1.0,True
+1776,fusion alliance,fusion alliance,1.0,True
+1777,prosci,prosci,1.0,True
+1778,cec entertainment,cec entertainment,1.0,True
+1779,fleur de lis energy,fleur de lis energy,1.0,True
+1780,cavenders,cavenders,1.0,True
+1781,circonus,circonus,1.0,True
+1782,rotating machinery services,rotating machinery services,1.0,True
+1783,marian university,marian university,1.0,True
+1784,bg foods,bg foods,1.0,True
+1785,colaberry,colaberry,1.0,True
+1786,lenox advisors,lenox advisors,1.0,True
+1787,consol energy,consol energy,1.0,True
+1788,carepoint health,carepoint health,1.0,True
+1789,taos,taos,1.0,True
+1790,rowan university,rowan university,1.0,True
+1791,aderas,aderas,1.0,True
+1792,technology service,technology service,1.0,True
+1793,williams distributing,williams distributing,1.0,True
+1794,noviflow,noviflow,1.0,True
+1795,grant street,grant street,1.0,True
+1796,gofundme,gofundme,1.0,True
+1797,united states patent  trademark office,united states patent  trademark office,1.0,True
+1798,nfm,nfm,1.0,True
+1799,nexus health systems,nexus health systems,1.0,True
+1800,collegiate school,collegiate school,1.0,True
+1801,whiting,whiting,1.0,True
+1802,mindteck,mindteck,1.0,True
+1803,interior logic,interior logic,1.0,True
+1804,city of carlsbad,city of carlsbad,1.0,True
+1805,machinify,machinify,1.0,True
+1806,nn,nn,1.0,True
+1807,publishers clearing house,publishers clearing house,1.0,True
+1808,ih services,ih services,1.0,True
+1809,closerstill media,closerstill media,1.0,True
+1810,pleasant holidays,pleasant holidays,1.0,True
+1811,futurewave systems,futurewave systems,1.0,True
+1812,rochester public utilities,rochester public utilities,1.0,True
+1813,classpass,classpass,1.0,True
+1814,biotrust nutrition,biotrust nutrition,1.0,True
+1815,trintech,trintech,1.0,True
+1816,alliance technology,alliance technology,1.0,True
+1817,hyperice,hyperice,1.0,True
+1818,atlanta international school,atlanta international school,1.0,True
+1819,health union,health union,1.0,True
+1820,city of albuquerque,city of albuquerque,1.0,True
+1821,cutting edge laser technologies,cutting edge laser technologies,1.0,True
+1822,strategic value partners,strategic value partners,1.0,True
+1823,drw holdings,drw holdings,1.0,True
+1824,steelcase,steelcase,1.0,True
+1825,imperial irrigation district,imperial irrigation district,1.0,True
+1826,ontellus,ontellus,1.0,True
+1827,barbaricum,barbaricum,1.0,True
+1828,hollisterorporated,hollisterorporated,1.0,True
+1829,encore technology,encore technology,1.0,True
+1830,emory healthcare,emory healthcare,1.0,True
+1831,fortis solutions,fortis solutions,1.0,True
+1832,demdaco,demdaco,1.0,True
+1833,hackensack meridian health,hackensack meridian health,1.0,True
+1834,dallas airmotive,dallas airmotive,1.0,True
+1835,automotive development,automotive development,1.0,True
+1836,washington latin public charter school,washington latin public charter school,1.0,True
+1837,om1,om1,1.0,True
+1838,angelo state university,angelo state university,1.0,True
+1839,comparably,comparably,1.0,True
+1840,synergis technologies,synergis technologies,1.0,True
+1841,fresco system usa,fresco system usa,1.0,True
+1842,wajax,wajax,1.0,True
+1843,hope college,hope college,1.0,True
+1844,region 7 education service center,region 4 education service center,1.0,True
+1845,palo alto networks,palo alto networks,1.0,True
+1846,alexandria industries,alexandria industries,1.0,True
+1847,liquid robotics,liquid robotics,1.0,True
+1848,ahern rentals,ahern rentals,1.0,True
+1849,health quest,health quest,1.0,True
+1850,zurn industries,zurn industries,1.0,True
+1851,claravine,claravine,1.0,True
+1852,clever devices,clever devices,1.0,True
+1853,billings clinic,billings clinic,1.0,True
+1854,inpixon,inpixon,1.0,True
+1855,eli,eli,1.0,True
+1856,oneindiana financial,oneindiana financial,1.0,True
+1857,maven wave partners,maven wave partners,1.0,True
+1858,delaware county intermediate unit,delaware county intermediate unit,1.0,True
+1859,gc services partnership,gc services partnership,1.0,True
+1860,east texas professional credit union,east texas professional credit union,1.0,True
+1861,cleco,cleco,1.0,True
+1862,advantage technologies,advantage technologies,1.0,True
+1863,wondersign,wondersign,1.0,True
+1864,plug power,plug power,1.0,True
+1865,envysion,envysion,1.0,True
+1866,m c research,g research,1.0,True
+1867,schoolcraft college,schoolcraft college,1.0,True
+1868,keyrus,keyrus,1.0,True
+1869,odw logistics,odw logistics,1.0,True
+1870,pact pharma,pact pharma,1.0,True
+1871,greenstone,greenstone,1.0,True
+1872,entrepix,entrepix,1.0,True
+1873,zpe systems,zpe systems,1.0,True
+1874,telestream,telestream,1.0,True
+1875,continental finance,continental finance,1.0,True
+1876,beam suntory,beam suntory,1.0,True
+1877,mediaspace solutions,mediaspace solutions,1.0,True
+1878,wilson daniels,wilson daniels,1.0,True
+1879,cannondesign,cannondesign,1.0,True
+1880,indico,indico,1.0,True
+1881,paychex,paychex,1.0,True
+1882,howard industries,howard industries,1.0,True
+1883,district u46,district u46,1.0,True
+1884,enquero,enquero,1.0,True
+1885,batteries plus bulbs,batteries plus bulbs,1.0,True
+1886,comscore,comscore,1.0,True
+1887,brodeur partners,brodeur partners,1.0,True
+1888,cfa institute,cfa institute,1.0,True
+1889,maritz,maritz,1.0,True
+1890,onefinestay,onefinestay,1.0,True
+1891,advanced powder products,advanced powder products,1.0,True
+1892,spi lighting,spi lighting,1.0,True
+1893,quality labor management,quality labor management,1.0,True
+1894,cuyahoga county,cuyahoga county,1.0,True
+1895,isc2,isc2,1.0,True
+1896,otter tail power company,otter tail power company,1.0,True
+1897,ujet,ujet,1.0,True
+1898,astronautics of america,astronautics of america,1.0,True
+1899,ecs,ecs,1.0,True
+1900,gundersen health system,gundersen health system,1.0,True
+1901,national pork board,national pork board,1.0,True
+1902,brock international,brock international,1.0,True
+1903,cardinal health canada,cardinal health canada,1.0,True
+1904,hologic,hologic,1.0,True
+1905,umb financial,umb financial,1.0,True
+1906,seco energy,seco energy,1.0,True
+1907,mizkan americas,mizkan americas,1.0,True
+1908,picsart,picsart,1.0,True
+1909,texas western hospitality,texas western hospitality,1.0,True
+1910,img,img,1.0,True
+1911,pindrop,pindrop,1.0,True
+1912,towson university,towson university,1.0,True
+1913,national transportation safety board,national transportation safety board,1.0,True
+1914,dte,dte,1.0,True
+1915,imperva,imperva,1.0,True
+1916,venture x,venture,1.0,True
+1917,pacific union college,pacific union college,1.0,True
+1918,agencyq,agencyq,1.0,True
+1919,the crosby,the crosby,1.0,True
+1920,raleys,raleys,1.0,True
+1921,bumble,bumble,1.0,True
+1922,pennoni associates,pennoni associates,1.0,True
+1923,servit,servit,1.0,True
+1924,feed more,feed more,1.0,True
+1925,bearing service,bearing service,1.0,True
+1926,jt4,jt4,1.0,True
+1927,mantech international,mantech international,1.0,True
+1928,sophisticated systems,sophisticated systems,1.0,True
+1929,r l e international,m s international,1.0,True
+1930,dalhousie university,dalhousie university,1.0,True
+1931,consultwebs,consultwebs,1.0,True
+1932,aristocrat technologies,aristocrat technologies,1.0,True
+1933,competitive power ventures,competitive power ventures,1.0,True
+1934,santa barbara infrared,santa barbara infrared,1.0,True
+1935,kingland systems,kingland systems,1.0,True
+1936,pro sports club,pro sports club,1.0,True
+1937,central arizona project,central arizona project,1.0,True
+1938,catalent pharma solutions,catalent pharma solutions,1.0,True
+1939,spectrum association management,spectrum association management,1.0,True
+1940,olo,olo,1.0,True
+1941,calypso technology,calypso technology,1.0,True
